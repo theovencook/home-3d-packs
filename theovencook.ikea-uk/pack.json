@@ -1,0 +1,10 @@
+{
+  "format": "home3d-pack",
+  "version": 2,
+  "id": "theovencook.ikea-uk",
+  "name": "IKEA UK range",
+  "publisher": "theovencook",
+  "licence": "MIT",
+  "release": 1,
+  "description": "IKEA UK bestsellers in their sizes, modelled for Home 3D from simple shapes. Search by the readable name or the IKEA name. Not made or endorsed by IKEA."
+}
