@@ -1,0 +1,10 @@
+{
+  "format": "home3d-pack",
+  "version": 2,
+  "id": "theovencook.kitchen-bath",
+  "name": "Kitchen & bath",
+  "publisher": "theovencook",
+  "licence": "MIT",
+  "release": 1,
+  "description": "Kitchen units, appliances and bathroom fittings, modelled for Home 3D from simple shapes. Appliances can be linked to a switch and a power sensor. Ships with the app and works offline."
+}

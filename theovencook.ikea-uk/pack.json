@@ -5,6 +5,6 @@
   "name": "IKEA UK range",
   "publisher": "theovencook",
   "licence": "MIT",
-  "release": 1,
+  "release": 2,
   "description": "IKEA UK bestsellers in their sizes, modelled for Home 3D from simple shapes. Search by the readable name or the IKEA name. Not made or endorsed by IKEA."
 }

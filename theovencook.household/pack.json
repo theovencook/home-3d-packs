@@ -1,0 +1,10 @@
+{
+  "format": "home3d-pack",
+  "version": 2,
+  "id": "theovencook.household",
+  "name": "Household & building",
+  "publisher": "theovencook",
+  "licence": "MIT",
+  "release": 1,
+  "description": "Household items, architecture (stairs, fireplaces and other building features) and pet gear, modelled for Home 3D from simple shapes. Ships with the app and works offline."
+}
