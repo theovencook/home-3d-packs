@@ -19,7 +19,7 @@ Beds, kids' furniture and storage for bedrooms and nurseries, modelled for Home 
 ### Decor & plants
 
 - Pack id: `theovencook.decor`
-- 130 items, release 1, licence MIT
+- 180 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.decor
 
 Decoration, frames, candles, vases, trays, cushions, throws and plants, modelled for Home 3D from simple shapes. Ships with the app and works offline.
@@ -27,7 +27,7 @@ Decoration, frames, candles, vases, trays, cushions, throws and plants, modelled
 ### Smart-home devices
 
 - Pack id: `theovencook.devices`
-- 75 items, release 1, licence MIT
+- 194 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.devices
 
 Smart-home devices for Home 3D: sensors, switches, thermostats, doorbells, boilers, meters, alarms, smart speakers and radiators, modelled from simple shapes so they can be linked to their Home Assistant entities. Ships with the app and works offline.
@@ -35,7 +35,7 @@ Smart-home devices for Home 3D: sensors, switches, thermostats, doorbells, boile
 ### Household & building
 
 - Pack id: `theovencook.household`
-- 89 items, release 1, licence MIT
+- 97 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.household
 
 Household items, architecture (stairs, fireplaces and other building features) and pet gear, modelled for Home 3D from simple shapes. Ships with the app and works offline.
@@ -51,7 +51,7 @@ IKEA UK bestsellers in their sizes, modelled for Home 3D from simple shapes. Sea
 ### IT & network
 
 - Pack id: `theovencook.it`
-- 22 items, release 1, licence MIT
+- 126 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.it
 
 Racks, switches, routers, NAS boxes, access points and UPSs for the cupboard under the stairs or the server room, modelled for Home 3D from simple shapes. Ships with the app and works offline.
@@ -59,7 +59,7 @@ Racks, switches, routers, NAS boxes, access points and UPSs for the cupboard und
 ### Kitchen & bath
 
 - Pack id: `theovencook.kitchen-bath`
-- 146 items, release 1, licence MIT
+- 216 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.kitchen-bath
 
 Kitchen units, appliances and bathroom fittings, modelled for Home 3D from simple shapes. Appliances can be linked to a switch and a power sensor. Ships with the app and works offline.
@@ -67,7 +67,7 @@ Kitchen units, appliances and bathroom fittings, modelled for Home 3D from simpl
 ### Living
 
 - Pack id: `theovencook.living`
-- 142 items, release 1, licence MIT
+- 241 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.living
 
 Sofas, seating, tables, lamps and media furniture for the living room, modelled for Home 3D from simple shapes. Ships with the app and works offline.
@@ -75,7 +75,7 @@ Sofas, seating, tables, lamps and media furniture for the living room, modelled 
 ### Makers
 
 - Pack id: `theovencook.makers`
-- 38 items, release 1, licence MIT
+- 143 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.makers
 
 3D printers (FDM and resin), wash and cure stations and workshop kit for makers, modelled for Home 3D from simple shapes. Printers show their progress, chamber light and camera when linked to a printer entity. Ships with the app and works offline.
@@ -83,7 +83,7 @@ Sofas, seating, tables, lamps and media furniture for the living room, modelled 
 ### Office & tech
 
 - Pack id: `theovencook.office`
-- 66 items, release 1, licence MIT
+- 100 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.office
 
 Desks, office furniture, computers, cameras and other tech, modelled for Home 3D from simple shapes. Ships with the app and works offline.
@@ -91,10 +91,34 @@ Desks, office furniture, computers, cameras and other tech, modelled for Home 3D
 ### Garden & outdoor
 
 - Pack id: `theovencook.outdoor`
-- 116 items, release 1, licence MIT
+- 341 items, release 2, licence MIT
 - Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor
 
 Garden furniture, outdoor items, sport kit and vehicles, modelled for Home 3D from simple shapes. Ships with the app and works offline.
+
+### Garden hardscape & street
+
+- Pack id: `theovencook.outdoor-hardscape`
+- 262 items, release 1, licence MIT
+- Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor-hardscape
+
+Garden fences, walls and gates, kerbs, roads and pavements, driveways and street lights in sizes and colours, modelled for Home 3D from simple shapes. Ships with the app and works offline.
+
+### Garden plants & ground
+
+- Pack id: `theovencook.outdoor-plants`
+- 474 items, release 1, licence MIT
+- Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor-plants
+
+Grass in several lengths, soils and mulches, raised beds and 50 garden plants in sizes and colours, modelled for Home 3D from simple shapes. Ships with the app and works offline.
+
+### UniFi
+
+- Pack id: `theovencook.unifi`
+- 194 items, release 1, licence MIT
+- Install URL: https://github.com/theovencook/home-3d-packs/tree/main/theovencook.unifi
+
+Ubiquiti UniFi gear: Protect cameras, doorbells and sensors, Access readers and hubs, Network access points, and the rack-mounted gateways, switches, NVRs, storage and power. Modelled for Home 3D from simple shapes. Ships with the app and works offline.
 
 ## Install a pack
 

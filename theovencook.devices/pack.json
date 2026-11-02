@@ -5,6 +5,7 @@
   "name": "Smart-home devices",
   "publisher": "theovencook",
   "licence": "MIT",
-  "release": 1,
-  "description": "Smart-home devices for Home 3D: sensors, switches, thermostats, doorbells, boilers, meters, alarms, smart speakers and radiators, modelled from simple shapes so they can be linked to their Home Assistant entities. Ships with the app and works offline."
+  "release": 2,
+  "description": "Smart-home devices for Home 3D: sensors, switches, thermostats, doorbells, boilers, meters, alarms, smart speakers and radiators, modelled from simple shapes so they can be linked to their Home Assistant entities. Ships with the app and works offline.",
+  "release_note": "UniFi G4 Doorbell and G4 Bullet camera models"
 }

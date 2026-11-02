@@ -1,7 +1,7 @@
 {
   "id": "zappi_charger_tethered",
   "name": {"en": "Zappi EV charger"},
-  "size": [0.4, 0.14, 0.44],
+  "size": [0.4, 0.122, 0.439],
   "group": "energy",
   "room": ["garage", "garden"],
   "tags": ["wallbox", "ev charger", "car charger", "myenergi", "zappi", "charge point", "electric car", "type 2", "home charger"],

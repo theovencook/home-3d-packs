@@ -1,7 +1,7 @@
 {
   "id": "nas_2_bay",
   "name": {"en": "NAS 2-bay"},
-  "size": [0.108, 0.232, 0.166],
+  "size": [0.108, 0.232, 0.165],
   "group": "network",
   "room": ["office", "utility", "loft", "living", "hall"],
   "tags": ["nas", "network storage", "server", "synology", "file server", "hard drives", "backup", "plex server"],

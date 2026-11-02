@@ -5,6 +5,7 @@
   "name": "Makers",
   "publisher": "theovencook",
   "licence": "MIT",
-  "release": 1,
-  "description": "3D printers (FDM and resin), wash and cure stations and workshop kit for makers, modelled for Home 3D from simple shapes. Printers show their progress, chamber light and camera when linked to a printer entity. Ships with the app and works offline."
+  "release": 2,
+  "description": "3D printers (FDM and resin), wash and cure stations and workshop kit for makers, modelled for Home 3D from simple shapes. Printers show their progress, chamber light and camera when linked to a printer entity. Ships with the app and works offline.",
+  "release_note": "105 new items, 8 items updated."
 }

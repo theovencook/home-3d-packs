@@ -13,3 +13,4 @@ itself. Install the packs you want instead:
 - https://github.com/theovencook/home-3d-packs/tree/main/theovencook.makers
 - https://github.com/theovencook/home-3d-packs/tree/main/theovencook.office
 - https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor
+- https://github.com/theovencook/home-3d-packs/tree/main/theovencook.unifi
