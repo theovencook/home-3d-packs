@@ -1,0 +1,35 @@
+name: Pack index
+
+# Every listed pack (ours and the community packs in community.json) must pass Home 3D's own pack check, be MIT
+# licensed, have a unique id and hold data only; index.json must be what tools/build_index.py builds.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  # a community pack can change after it was listed: check the list once a week too
+  schedule:
+    - cron: "17 5 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out Home 3D (its pack check is the one Home Assistant runs)
+        uses: actions/checkout@v4
+        with:
+          repository: theovencook/home-3d
+          ref: main
+          path: .home-3d
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install voluptuous
+      - name: Check every listed pack and index.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/build_index.py check . --home3d .home-3d

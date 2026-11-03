@@ -1,0 +1,8565 @@
+{
+ "format": "home3d-pack-index",
+ "packs": [
+  {
+   "categories": {
+    "bed": 28,
+    "kids": 15,
+    "storage": 34
+   },
+   "description": "Beds, kids' furniture and storage for bedrooms and nurseries, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.bedroom",
+   "items": 77,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Bedroom & kids",
+   "previews": [
+    {
+     "electric": false,
+     "group": "storage",
+     "hole": false,
+     "id": "bookcase_simple",
+     "mount": "floor",
+     "name": {
+      "en": "Bookcase"
+     },
+     "parts": [
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.025,
+       "x": -0.4875,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.025,
+       "x": 0.4875,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.015,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.985,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 0.96,
+       "edges": false,
+       "glow": false,
+       "h": 0.012,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.23,
+       "z": 0.02
+      },
+      {
+       "color": "wood",
+       "d": 0.96,
+       "edges": false,
+       "glow": false,
+       "h": 0.012,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.42,
+       "z": 0.02
+      },
+      {
+       "color": "wood",
+       "d": 0.96,
+       "edges": false,
+       "glow": false,
+       "h": 0.012,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.61,
+       "z": 0.02
+      },
+      {
+       "color": "wood",
+       "d": 0.96,
+       "edges": false,
+       "glow": false,
+       "h": 0.012,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.8,
+       "z": 0.02
+      },
+      {
+       "color": "white",
+       "d": 0.02,
+       "edges": false,
+       "glow": false,
+       "h": 0.945,
+       "screen": false,
+       "shape": "box",
+       "w": 0.95,
+       "x": 0.0,
+       "y": 0.04,
+       "z": -0.49
+      }
+     ],
+     "room": [
+      "living",
+      "office",
+      "kids"
+     ],
+     "size": [
+      0.8,
+      0.3,
+      1.8
+     ],
+     "surface": false,
+     "tags": [
+      "shelves",
+      "shelving",
+      "books"
+     ],
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bedside_table",
+     "group": "bed",
+     "hole": false,
+     "id": "bedside_table_1_drawer",
+     "mount": "floor",
+     "name": {
+      "en": "Bedside table with 1 drawer"
+     },
+     "parts": [
+      {
+       "color": "wood",
+       "d": 0.0543,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.2545,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1,
+       "tw": 0.0778,
+       "tx": -0.4167,
+       "tz": -0.3929,
+       "w": 0.0422,
+       "x": -0.4167,
+       "y": 0.0,
+       "z": -0.3929
+      },
+      {
+       "color": "wood",
+       "d": 0.0543,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.2545,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1,
+       "tw": 0.0778,
+       "tx": -0.4167,
+       "tz": 0.3929,
+       "w": 0.0422,
+       "x": -0.4167,
+       "y": 0.0,
+       "z": 0.3929
+      },
+      {
+       "color": "wood",
+       "d": 0.0543,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.2545,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1,
+       "tw": 0.0778,
+       "tx": 0.4167,
+       "tz": -0.3929,
+       "w": 0.0422,
+       "x": 0.4167,
+       "y": 0.0,
+       "z": -0.3929
+      },
+      {
+       "color": "wood",
+       "d": 0.0543,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.2545,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1,
+       "tw": 0.0778,
+       "tx": 0.4167,
+       "tz": 0.3929,
+       "w": 0.0422,
+       "x": 0.4167,
+       "y": 0.0,
+       "z": 0.3929
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.7055,
+       "screen": false,
+       "shape": "box",
+       "w": 0.04,
+       "x": -0.48,
+       "y": 0.2545,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.7055,
+       "screen": false,
+       "shape": "box",
+       "w": 0.04,
+       "x": 0.48,
+       "y": 0.2545,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 0.0343,
+       "edges": false,
+       "glow": false,
+       "h": 0.7055,
+       "screen": false,
+       "shape": "box",
+       "w": 0.92,
+       "x": 0.0,
+       "y": 0.2545,
+       "z": -0.4829
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0327,
+       "screen": false,
+       "shape": "box",
+       "w": 0.92,
+       "x": 0.0,
+       "y": 0.2545,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.96,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.0571,
+       "edges": false,
+       "glow": false,
+       "h": 0.2655,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9111,
+       "x": 0.0,
+       "y": 0.6836,
+       "z": 0.4714
+      },
+      {
+       "color": "metal",
+       "d": 0.0029,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0236,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1778,
+       "x": 0.0,
+       "y": 0.8673,
+       "z": 0.4986
+      },
+      {
+       "color": "wood",
+       "d": 0.9371,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0327,
+       "screen": false,
+       "shape": "box",
+       "w": 0.92,
+       "x": 0.0,
+       "y": 0.6473,
+       "z": 0.0029
+      }
+     ],
+     "room": [
+      "bedroom",
+      "kids"
+     ],
+     "size": [
+      0.45,
+      0.35,
+      0.55
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      },
+      {
+       "shape": "line",
+       "x1": -0.5,
+       "x2": 0.5,
+       "z1": 0.45,
+       "z2": 0.45
+      }
+     ],
+     "tags": [
+      "bedside",
+      "bedside cabinet",
+      "bedside drawers",
+      "night table",
+      "side table",
+      "drawer"
+     ],
+     "variant": {
+      "en": "1 drawer + shelf"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "slide_bed",
+     "group": "kids",
+     "hole": false,
+     "id": "bunk_bed_with_slide",
+     "mount": "floor",
+     "name": {
+      "en": "Bunk bed with slide"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 0.024,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.03,
+       "x": -0.485,
+       "y": 0.0,
+       "z": -0.488
+      },
+      {
+       "color": "white",
+       "d": 0.024,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.03,
+       "x": -0.485,
+       "y": 0.0,
+       "z": -0.112
+      },
+      {
+       "color": "white",
+       "d": 0.024,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.03,
+       "x": 0.485,
+       "y": 0.0,
+       "z": -0.488
+      },
+      {
+       "color": "white",
+       "d": 0.024,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.03,
+       "x": 0.485,
+       "y": 0.0,
+       "z": -0.112
+      },
+      {
+       "color": "white",
+       "d": 0.02,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0686,
+       "screen": false,
+       "shape": "box",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.0457,
+       "z": -0.488
+      },
+      {
+       "color": "white",
+       "d": 0.02,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0686,
+       "screen": false,
+       "shape": "box",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.0457,
+       "z": -0.112
+      },
+      {
+       "color": "white",
+       "d": 0.352,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0857,
+       "round": 0.2,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.1143,
+       "z": -0.3
+      },
+      {
+       "color": "cushion",
+       "d": 0.352,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.04,
+       "round": 0.4,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.71,
+       "x": 0.11,
+       "y": 0.1886,
+       "z": -0.3
+      },
+      {
+       "color": "white",
+       "d": 0.02,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0686,
+       "screen": false,
+       "shape": "box",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.5886,
+       "z": -0.488
+      },
+      {
+       "color": "white",
+       "d": 0.02,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0686,
+       "screen": false,
+       "shape": "box",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.5886,
+       "z": -0.112
+      },
+      {
+       "color": "white",
+       "d": 0.352,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0857,
+       "round": 0.2,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.6571,
+       "z": -0.3
+      },
+      {
+       "color": "cushion",
+       "d": 0.352,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.04,
+       "round": 0.4,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.71,
+       "x": 0.11,
+       "y": 0.7314,
+       "z": -0.3
+      },
+      {
+       "color": "white",
+       "d": 0.016,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0343,
+       "screen": false,
+       "shape": "box",
+       "w": 0.94,
+       "x": 0.0,
+       "y": 0.9657,
+       "z": -0.488
+      },
+      {
+       "color": "white",
+       "d": 0.016,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0343,
+       "screen": false,
+       "shape": "box",
+       "w": 0.695,
+       "x": -0.1225,
+       "y": 0.9657,
+       "z": -0.112
+      },
+      {
+       "color": "white",
+       "d": 0.016,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0343,
+       "screen": false,
+       "shape": "box",
+       "w": 0.695,
+       "x": -0.1225,
+       "y": 0.7714,
+       "z": -0.112
+      },
+      {
+       "color": "wood",
+       "d": 0.016,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.02,
+       "x": 0.26,
+       "y": 0.0,
+       "z": -0.108
+      },
+      {
+       "color": "wood",
+       "d": 0.016,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.02,
+       "x": 0.45,
+       "y": 0.0,
+       "z": -0.108
+      },
+      {
+       "color": "wood",
+       "d": 0.012,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0171,
+       "screen": false,
+       "shape": "box",
+       "w": 0.17,
+       "x": 0.355,
+       "y": 0.1471,
+       "z": -0.108
+      },
+      {
+       "color": "wood",
+       "d": 0.012,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0171,
+       "screen": false,
+       "shape": "box",
+       "w": 0.17,
+       "x": 0.355,
+       "y": 0.3114,
+       "z": -0.108
+      },
+      {
+       "color": "wood",
+       "d": 0.012,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0171,
+       "screen": false,
+       "shape": "box",
+       "w": 0.17,
+       "x": 0.355,
+       "y": 0.4757,
+       "z": -0.108
+      },
+      {
+       "color": "wood",
+       "d": 0.012,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0171,
+       "screen": false,
+       "shape": "box",
+       "w": 0.17,
+       "x": 0.355,
+       "y": 0.64,
+       "z": -0.108
+      },
+      {
+       "color": "#4f86c6",
+       "d": 0.08,
+       "edges": false,
+       "glow": false,
+       "h": 0.0229,
+       "screen": false,
+       "shape": "box",
+       "w": 0.225,
+       "x": -0.3125,
+       "y": 0.6914,
+       "z": -0.068
+      },
+      {
+       "color": "#4f86c6",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.0457,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.12,
+       "tw": 0.225,
+       "tx": -0.3125,
+       "tz": 0.44,
+       "w": 0.225,
+       "x": -0.3125,
+       "y": 0.0,
+       "z": 0.4
+      },
+      {
+       "color": "#4f86c6",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.6686,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.04,
+       "tw": 0.225,
+       "tx": -0.3125,
+       "tz": -0.04,
+       "w": 0.225,
+       "x": -0.3125,
+       "y": 0.0457,
+       "z": 0.392
+      },
+      {
+       "color": "#4f86c6",
+       "d": 0.064,
+       "edges": false,
+       "glow": false,
+       "h": 0.7486,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.056,
+       "tw": 0.015,
+       "tx": -0.4175,
+       "tz": -0.048,
+       "w": 0.015,
+       "x": -0.4175,
+       "y": 0.0343,
+       "z": 0.388
+      },
+      {
+       "color": "#4f86c6",
+       "d": 0.064,
+       "edges": false,
+       "glow": false,
+       "h": 0.7486,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.056,
+       "tw": 0.015,
+       "tx": -0.2075,
+       "tz": -0.048,
+       "w": 0.015,
+       "x": -0.2075,
+       "y": 0.0343,
+       "z": 0.388
+      }
+     ],
+     "room": [
+      "kids",
+      "bedroom"
+     ],
+     "size": [
+      2.0,
+      2.5,
+      1.75
+     ],
+     "surface": false,
+     "tags": [
+      "bunk bed",
+      "slide",
+      "kids bed",
+      "children's bed",
+      "ladder",
+      "single",
+      "play bed",
+      "bunks",
+      "two beds"
+     ],
+     "variant": {
+      "en": "Bunk bed"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 1,
+   "source": "official",
+   "thumbnail": "bookcase_simple",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.bedroom"
+  },
+  {
+   "categories": {
+    "candle": 9,
+    "cushion": 6,
+    "deco": 98,
+    "frame": 18,
+    "plant": 33,
+    "throw": 4,
+    "tray": 6,
+    "vase": 6
+   },
+   "description": "Decoration, frames, candles, vases, trays, cushions, throws and plants, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.decor",
+   "items": 180,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Decor & plants",
+   "previews": [
+    {
+     "electric": false,
+     "family": "basket",
+     "group": "deco",
+     "hole": false,
+     "id": "basket_belly",
+     "mount": "floor",
+     "name": {
+      "en": "Belly basket"
+     },
+     "parts": [
+      {
+       "color": "#c49a6c",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "profile": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         0.8,
+         0.0
+        ],
+        [
+         0.97,
+         0.3
+        ],
+        [
+         1.0,
+         0.75
+        ],
+        [
+         0.96,
+         1.0
+        ],
+        [
+         0.91,
+         1.0
+        ],
+        [
+         0.95,
+         0.75
+        ],
+        [
+         0.92,
+         0.3
+        ],
+        [
+         0.75,
+         0.04
+        ],
+        [
+         0.0,
+         0.04
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#a57c4d",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.12,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.82,
+       "z": 0.0
+      },
+      {
+       "color": "#8a6440",
+       "d": 0.99,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.99,
+       "x": 0.0,
+       "y": 0.3,
+       "z": 0.0
+      },
+      {
+       "color": "#6b4a2b",
+       "d": 0.18,
+       "edges": false,
+       "glow": false,
+       "h": 0.08,
+       "screen": false,
+       "shape": "box",
+       "w": 0.06,
+       "x": -0.47,
+       "y": 0.8,
+       "z": 0.0
+      },
+      {
+       "color": "#6b4a2b",
+       "d": 0.18,
+       "edges": false,
+       "glow": false,
+       "h": 0.08,
+       "screen": false,
+       "shape": "box",
+       "w": 0.06,
+       "x": 0.47,
+       "y": 0.8,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "dining",
+      "bedroom",
+      "hall",
+      "kids",
+      "bath",
+      "utility"
+     ],
+     "size": [
+      0.4,
+      0.4,
+      0.42
+     ],
+     "surface": false,
+     "tags": [
+      "basket",
+      "belly basket",
+      "seagrass",
+      "storage basket",
+      "woven",
+      "wicker",
+      "plant basket"
+     ],
+     "variant": {
+      "en": "Round 40"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "herb_pot",
+     "group": "plant",
+     "hole": false,
+     "id": "herb_planter_trough_60",
+     "mount": "surface",
+     "name": {
+      "en": "Herb planter"
+     },
+     "parts": [
+      {
+       "color": "wood",
+       "d": 0.9412,
+       "edges": false,
+       "glow": false,
+       "h": 0.3846,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9836,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#4a3726",
+       "d": 0.7647,
+       "edges": false,
+       "glow": false,
+       "h": 0.0231,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9344,
+       "x": 0.0,
+       "y": 0.3654,
+       "z": 0.0
+      },
+      {
+       "color": "#3d8a3a",
+       "d": 0.5294,
+       "edges": false,
+       "glow": false,
+       "h": 0.3462,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.1475,
+       "x": -0.3689,
+       "y": 0.3846,
+       "z": 0.0
+      },
+      {
+       "color": "#2f7a35",
+       "d": 0.3529,
+       "edges": false,
+       "glow": false,
+       "h": 0.2308,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.0984,
+       "x": -0.3361,
+       "y": 0.5769,
+       "z": 0.0
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.4615,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.0902,
+       "y": 0.3846,
+       "z": 0.0
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.5385,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.1052,
+       "y": 0.3846,
+       "z": 0.099
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.6154,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.1366,
+       "y": 0.3846,
+       "z": 0.107
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.4615,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.1554,
+       "y": 0.3846,
+       "z": 0.0166
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.5385,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.1444,
+       "y": 0.3846,
+       "z": -0.089
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.6154,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.1137,
+       "y": 0.3846,
+       "z": -0.1128
+      },
+      {
+       "color": "#4a8a3a",
+       "d": 0.0412,
+       "edges": false,
+       "glow": false,
+       "h": 0.4615,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0115,
+       "x": -0.0915,
+       "y": 0.3846,
+       "z": -0.0329
+      },
+      {
+       "color": "#7f9a6a",
+       "d": 0.4706,
+       "edges": false,
+       "glow": false,
+       "h": 0.1731,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.1639,
+       "x": 0.123,
+       "y": 0.3846,
+       "z": 0.0
+      },
+      {
+       "color": "#8fa87a",
+       "d": 0.2941,
+       "edges": false,
+       "glow": false,
+       "h": 0.1923,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.082,
+       "x": 0.1557,
+       "y": 0.5,
+       "z": 0.0
+      },
+      {
+       "color": "#4f6f4a",
+       "d": 0.0706,
+       "edges": false,
+       "glow": false,
+       "h": 0.4615,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0824,
+       "tw": 0.023,
+       "tx": 0.418,
+       "tz": 0.0,
+       "w": 0.0197,
+       "x": 0.3885,
+       "y": 0.3846,
+       "z": 0.0
+      },
+      {
+       "color": "#4f6f4a",
+       "d": 0.0706,
+       "edges": false,
+       "glow": false,
+       "h": 0.5385,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0824,
+       "tw": 0.023,
+       "tx": 0.3933,
+       "tz": 0.1531,
+       "w": 0.0197,
+       "x": 0.3786,
+       "y": 0.3846,
+       "z": 0.0612
+      },
+      {
+       "color": "#4f6f4a",
+       "d": 0.0706,
+       "edges": false,
+       "glow": false,
+       "h": 0.6154,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0824,
+       "tw": 0.023,
+       "tx": 0.344,
+       "tz": 0.1523,
+       "w": 0.0197,
+       "x": 0.3589,
+       "y": 0.3846,
+       "z": 0.0609
+      },
+      {
+       "color": "#4f6f4a",
+       "d": 0.0706,
+       "edges": false,
+       "glow": false,
+       "h": 0.4615,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0824,
+       "tw": 0.023,
+       "tx": 0.3197,
+       "tz": -0.0015,
+       "w": 0.0197,
+       "x": 0.3492,
+       "y": 0.3846,
+       "z": -0.0006
+      },
+      {
+       "color": "#4f6f4a",
+       "d": 0.0706,
+       "edges": false,
+       "glow": false,
+       "h": 0.5385,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0824,
+       "tw": 0.023,
+       "tx": 0.3447,
+       "tz": -0.1538,
+       "w": 0.0197,
+       "x": 0.3592,
+       "y": 0.3846,
+       "z": -0.0615
+      },
+      {
+       "color": "#4f6f4a",
+       "d": 0.0706,
+       "edges": false,
+       "glow": false,
+       "h": 0.6154,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0824,
+       "tw": 0.023,
+       "tx": 0.394,
+       "tz": -0.1516,
+       "w": 0.0197,
+       "x": 0.3789,
+       "y": 0.3846,
+       "z": -0.0606
+      }
+     ],
+     "room": [
+      "kitchen",
+      "garden",
+      "conservatory",
+      "dining"
+     ],
+     "size": [
+      0.61,
+      0.17,
+      0.26
+     ],
+     "surface": false,
+     "tags": [
+      "herbs",
+      "herb planter",
+      "trough",
+      "kitchen garden",
+      "parsley",
+      "chives",
+      "thyme",
+      "sage",
+      "window box",
+      "planter"
+     ],
+     "variant": {
+      "en": "Wooden trough, 60 cm"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "canvas_wall_art",
+     "group": "frame",
+     "hole": false,
+     "id": "canvas_100x100",
+     "mount": "wall",
+     "name": {
+      "en": "Canvas wall art"
+     },
+     "parts": [
+      {
+       "color": "#f4f1ea",
+       "d": 0.85,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#efe1c8",
+       "d": 0.1,
+       "edges": false,
+       "glow": false,
+       "h": 0.96,
+       "screen": false,
+       "shape": "box",
+       "w": 0.96,
+       "x": 0.0,
+       "y": 0.02,
+       "z": 0.4
+      },
+      {
+       "color": "#c2573a",
+       "d": 0.1,
+       "edges": false,
+       "glow": false,
+       "h": 0.34,
+       "screen": false,
+       "shape": "box",
+       "w": 0.96,
+       "x": 0.0,
+       "y": 0.02,
+       "z": 0.4375
+      },
+      {
+       "color": "#e8b86a",
+       "d": 0.1,
+       "edges": false,
+       "glow": false,
+       "h": 0.18,
+       "screen": false,
+       "shape": "box",
+       "w": 0.5,
+       "x": -0.12,
+       "y": 0.36,
+       "z": 0.4375
+      },
+      {
+       "color": "#5b3a4a",
+       "d": 0.1,
+       "edges": false,
+       "glow": false,
+       "h": 0.3,
+       "screen": false,
+       "shape": "box",
+       "w": 0.3,
+       "x": 0.22,
+       "y": 0.52,
+       "z": 0.4375
+      },
+      {
+       "color": "#e8b86a",
+       "d": 0.1,
+       "edges": false,
+       "glow": false,
+       "h": 0.1,
+       "screen": false,
+       "shape": "box",
+       "w": 0.4,
+       "x": -0.2,
+       "y": 0.14,
+       "z": 0.4375
+      }
+     ],
+     "room": [
+      "living",
+      "dining",
+      "bedroom",
+      "hall",
+      "office",
+      "kids"
+     ],
+     "size": [
+      1.0,
+      0.04,
+      1.0
+     ],
+     "surface": false,
+     "tags": [
+      "canvas",
+      "wall art",
+      "painting",
+      "print",
+      "abstract",
+      "picture",
+      "art"
+     ],
+     "variant": {
+      "en": "100 × 100"
+     },
+     "vehicle": false,
+     "wall_y": 1.05
+    },
+    {
+     "electric": false,
+     "family": "candle_jar",
+     "group": "candle",
+     "hole": false,
+     "id": "candle_jar",
+     "mount": "surface",
+     "name": {
+      "en": "Candle in a jar"
+     },
+     "parts": [
+      {
+       "color": "#c79a5b",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.7692,
+       "screen": false,
+       "shape": "cyl",
+       "top": "#f1e7d3",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#2b2b2b",
+       "d": 0.0333,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0615,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0333,
+       "x": 0.0,
+       "y": 0.7692,
+       "z": 0.0
+      },
+      {
+       "color": "#ffb648",
+       "d": 0.1333,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.1846,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.1333,
+       "x": 0.0,
+       "y": 0.8154,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "dining",
+      "bedroom",
+      "hall",
+      "bath",
+      "kitchen"
+     ],
+     "size": [
+      0.09,
+      0.09,
+      0.13
+     ],
+     "surface": false,
+     "tags": [
+      "candle",
+      "jar candle",
+      "scented candle",
+      "glass jar",
+      "amber"
+     ],
+     "variant": {
+      "en": "Amber jar"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "cushion",
+     "group": "cushion",
+     "hole": false,
+     "id": "cushion_45",
+     "mount": "surface",
+     "name": {
+      "en": "Cushion 45 × 45 cm"
+     },
+     "parts": [
+      {
+       "color": "cushion",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.5,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "bedroom",
+      "conservatory",
+      "kids"
+     ],
+     "size": [
+      0.45,
+      0.15,
+      0.45
+     ],
+     "surface": false,
+     "tags": [
+      "cushion",
+      "scatter cushion",
+      "sofa cushion",
+      "throw pillow",
+      "pillow",
+      "square"
+     ],
+     "variant": {
+      "en": "45 × 45"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "tray",
+     "group": "tray",
+     "hole": false,
+     "id": "tray_metal",
+     "mount": "surface",
+     "name": {
+      "en": "Metal tray"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.3,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.024,
+       "edges": false,
+       "fix": "d",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.488
+      },
+      {
+       "color": "dark",
+       "d": 0.024,
+       "edges": false,
+       "fix": "d",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.488
+      },
+      {
+       "color": "dark",
+       "d": 1.0,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.015,
+       "x": -0.4925,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.3,
+       "edges": false,
+       "fix": "wh",
+       "glow": false,
+       "h": 0.3,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0165,
+       "x": -0.4925,
+       "y": 0.5,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 1.0,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.015,
+       "x": 0.4925,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.3,
+       "edges": false,
+       "fix": "wh",
+       "glow": false,
+       "h": 0.3,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0165,
+       "x": 0.4925,
+       "y": 0.5,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "dining",
+      "bedroom",
+      "hall",
+      "kitchen"
+     ],
+     "size": [
+      0.4,
+      0.25,
+      0.04
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "tray",
+      "serving tray",
+      "decor tray",
+      "coffee table",
+      "metal",
+      "black",
+      "steel"
+     ],
+     "variant": {
+      "en": "Black metal"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "New: trophies (cups, figures, shields, crystal awards, plaques, medals on stands and a podium) in gold, silver and bronze.",
+   "source": "official",
+   "thumbnail": "basket_belly",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.decor"
+  },
+  {
+   "categories": {
+    "energy": 40,
+    "heating": 129,
+    "lamp": 3,
+    "media": 8,
+    "tech": 14
+   },
+   "description": "Smart-home devices for Home 3D: sensors, switches, thermostats, doorbells, boilers, meters, alarms, smart speakers and radiators, modelled from simple shapes so they can be linked to their Home Assistant entities. Ships with the app and works offline.",
+   "id": "theovencook.devices",
+   "items": 194,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Smart-home devices",
+   "previews": [
+    {
+     "electric": true,
+     "family": "air_circulator",
+     "group": "heating",
+     "hole": false,
+     "id": "air_circulator_large",
+     "mount": "floor",
+     "name": {
+      "en": "Air circulator"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 0.5,
+       "edges": false,
+       "glow": false,
+       "h": 0.0789,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.5,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.1
+      },
+      {
+       "color": "white",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.2,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.3,
+       "x": 0.0,
+       "y": 0.0789,
+       "z": -0.1
+      },
+      {
+       "axis": "z",
+       "color": "white",
+       "d": 0.55,
+       "edges": false,
+       "glow": false,
+       "h": 0.72,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.28,
+       "z": 0.1
+      },
+      {
+       "axis": "z",
+       "color": "dark",
+       "d": 0.0667,
+       "edges": false,
+       "glow": false,
+       "h": 0.52,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.8,
+       "x": 0.0,
+       "y": 0.38,
+       "z": 0.4
+      }
+     ],
+     "room": [
+      "living",
+      "bedroom",
+      "office",
+      "kids",
+      "hobby",
+      "garage"
+     ],
+     "size": [
+      0.34,
+      0.3,
+      0.38
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "r": 0.5,
+       "shape": "circle",
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "fan",
+      "cooling",
+      "summer",
+      "air movement",
+      "air circulator",
+      "floor fan",
+      "vortex fan",
+      "drum fan"
+     ],
+     "variant": {
+      "en": "Large"
+     },
+     "vehicle": false,
+     "wall_y": 1.0,
+     "watts": 56
+    },
+    {
+     "electric": true,
+     "family": "ev_charger_andersen",
+     "group": "energy",
+     "hole": false,
+     "id": "andersen_a2",
+     "mount": "wall",
+     "name": {
+      "en": "Andersen A2 EV charger"
+     },
+     "parts": [
+      {
+       "color": "#4a5a52",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.2,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.08,
+       "edges": false,
+       "glow": false,
+       "h": 0.8,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.8,
+       "x": 0.0,
+       "y": 0.1,
+       "z": 0.47
+      },
+      {
+       "color": "#e8d9a8",
+       "d": 0.024,
+       "edges": false,
+       "glow": false,
+       "h": 0.07,
+       "screen": false,
+       "shape": "box",
+       "w": 0.45,
+       "x": 0.0,
+       "y": 0.78,
+       "z": 0.488
+      },
+      {
+       "color": "#2b2f35",
+       "d": 0.2,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.4,
+       "x": 0.0,
+       "y": 0.18,
+       "z": 0.4
+      },
+      {
+       "axis": "z",
+       "color": "#cfd2d6",
+       "d": 0.24,
+       "edges": false,
+       "glow": false,
+       "h": 0.15,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.2129,
+       "x": 0.0,
+       "y": 0.305,
+       "z": 0.38
+      }
+     ],
+     "room": [
+      "garage",
+      "garden"
+     ],
+     "size": [
+      0.348,
+      0.148,
+      0.494
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "ev charger",
+      "ev",
+      "car charger",
+      "charger",
+      "electric car",
+      "charge point",
+      "wallbox",
+      "andersen",
+      "a2",
+      "andersen a2",
+      "designer charger"
+     ],
+     "variant": {
+      "en": "A2"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "entity_marker",
+     "group": "tech",
+     "hole": false,
+     "id": "entity_sensor_marker",
+     "mount": "wall",
+     "name": {
+      "en": "Sensor marker (wall)"
+     },
+     "parts": [
+      {
+       "axis": "z",
+       "color": "white",
+       "d": 0.55,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.22
+      },
+      {
+       "axis": "z",
+       "color": "#f4f4ee",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.7,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.7,
+       "x": 0.0,
+       "y": 0.15000000000000002,
+       "z": 0.17
+      },
+      {
+       "axis": "z",
+       "color": "#3a8dde",
+       "d": 0.12,
+       "edges": false,
+       "glow": true,
+       "h": 0.22,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.22,
+       "x": 0.0,
+       "y": 0.39,
+       "z": 0.43
+      }
+     ],
+     "size": [
+      0.07,
+      0.025,
+      0.07
+     ],
+     "surface": false,
+     "tags": [
+      "sensor marker",
+      "sensor",
+      "any sensor",
+      "generic sensor",
+      "binary sensor",
+      "temperature sensor",
+      "humidity sensor",
+      "placeholder"
+     ],
+     "variant": {
+      "en": "Sensor, wall"
+     },
+     "vehicle": false,
+     "wall_y": 1.5
+    },
+    {
+     "electric": true,
+     "family": "amazon_echo",
+     "group": "media",
+     "hole": false,
+     "id": "echo",
+     "mount": "surface",
+     "name": {
+      "en": "Amazon Echo"
+     },
+     "parts": [
+      {
+       "color": "fabric",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "sphere",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#1f2a38",
+       "d": 0.9444,
+       "edges": false,
+       "glow": true,
+       "h": 0.0526,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.9444,
+       "x": 0.0,
+       "y": 0.015,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.0972,
+       "edges": false,
+       "glow": false,
+       "h": 0.0301,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0972,
+       "x": -0.2222,
+       "y": 0.9474,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.0972,
+       "edges": false,
+       "glow": false,
+       "h": 0.0301,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0972,
+       "x": 0.2222,
+       "y": 0.9474,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "kitchen",
+      "bedroom",
+      "kids",
+      "office",
+      "bath",
+      "hall",
+      "dining"
+     ],
+     "size": [
+      0.144,
+      0.144,
+      0.133
+     ],
+     "surface": false,
+     "tags": [
+      "echo",
+      "alexa",
+      "amazon echo",
+      "smart speaker",
+      "voice assistant",
+      "speaker",
+      "amazon",
+      "media player"
+     ],
+     "variant": {
+      "en": "Echo"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "outdoor_wall_light",
+     "group": "lamp",
+     "hole": false,
+     "id": "outdoor_wall_light_bulkhead",
+     "light": "wall",
+     "mount": "wall",
+     "name": {
+      "en": "Outdoor wall light (bulkhead)"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 0.6,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.45,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.2
+      },
+      {
+       "color": "#f6f1e0",
+       "d": 0.5,
+       "edges": false,
+       "glow": true,
+       "h": 0.84,
+       "round": 0.5,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.86,
+       "x": 0.0,
+       "y": 0.08,
+       "z": 0.15
+      },
+      {
+       "color": "#8a8f96",
+       "d": 0.12,
+       "edges": false,
+       "glow": false,
+       "h": 0.92,
+       "round": 0.5,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.92,
+       "x": 0.0,
+       "y": 0.04,
+       "z": 0.05
+      }
+     ],
+     "room": [
+      "garden"
+     ],
+     "size": [
+      0.3,
+      0.12,
+      0.17
+     ],
+     "surface": false,
+     "tags": [
+      "outdoor wall light",
+      "exterior light",
+      "garden light",
+      "porch light",
+      "security light",
+      "wall lantern",
+      "patio light",
+      "outside light",
+      "ip44",
+      "bulkhead",
+      "oval bulkhead"
+     ],
+     "variant": {
+      "en": "Bulkhead"
+     },
+     "vehicle": false,
+     "wall_y": 2.2
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "UniFi G4 Doorbell and G4 Bullet camera models",
+   "source": "official",
+   "thumbnail": "air_circulator_large",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.devices"
+  },
+  {
+   "categories": {
+    "architecture": 34,
+    "household": 40,
+    "pets": 23
+   },
+   "description": "Household items, architecture (stairs, fireplaces and other building features) and pet gear, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.household",
+   "items": 97,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Household & building",
+   "previews": [
+    {
+     "electric": false,
+     "family": "broom_mop_rack",
+     "group": "household",
+     "hole": false,
+     "id": "broom_mop_wall_rack",
+     "mount": "wall",
+     "name": {
+      "en": "Broom and mop wall rack"
+     },
+     "parts": [
+      {
+       "color": "metal",
+       "d": 0.18,
+       "edges": false,
+       "glow": false,
+       "h": 0.0267,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.6,
+       "z": -0.4
+      },
+      {
+       "color": "metal",
+       "d": 0.18,
+       "edges": false,
+       "glow": false,
+       "h": 0.0267,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.2333,
+       "z": -0.4
+      },
+      {
+       "color": "dark",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0806,
+       "x": -0.3226,
+       "y": 0.5933,
+       "z": -0.15
+      },
+      {
+       "color": "dark",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0806,
+       "x": -0.3226,
+       "y": 0.2267,
+       "z": -0.15
+      },
+      {
+       "color": "dark",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0806,
+       "x": 0.0323,
+       "y": 0.5933,
+       "z": -0.15
+      },
+      {
+       "color": "dark",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0806,
+       "x": 0.0323,
+       "y": 0.2267,
+       "z": -0.15
+      },
+      {
+       "color": "#c4a06e",
+       "d": 0.25,
+       "edges": false,
+       "glow": false,
+       "h": 0.8933,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0403,
+       "x": -0.3226,
+       "y": 0.08,
+       "z": -0.15
+      },
+      {
+       "color": "#6a6f77",
+       "d": 0.6,
+       "edges": false,
+       "glow": false,
+       "h": 0.0667,
+       "screen": false,
+       "shape": "box",
+       "w": 0.4194,
+       "x": -0.3226,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#2a5ea8",
+       "d": 0.45,
+       "edges": false,
+       "glow": false,
+       "h": 0.03,
+       "screen": false,
+       "shape": "box",
+       "w": 0.4194,
+       "x": -0.3226,
+       "y": 0.0667,
+       "z": 0.0
+      },
+      {
+       "color": "#8a8f96",
+       "d": 0.25,
+       "edges": false,
+       "glow": false,
+       "h": 0.96,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0403,
+       "x": 0.0323,
+       "y": 0.0,
+       "z": -0.15
+      },
+      {
+       "color": "#f2f0e8",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.0933,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.2581,
+       "x": 0.0323,
+       "y": 0.9067,
+       "z": 0.0
+      },
+      {
+       "color": "metal",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0968,
+       "x": 0.4032,
+       "y": 0.5467,
+       "z": -0.3
+      },
+      {
+       "color": "#c0262b",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.2533,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.2,
+       "tw": 0.3226,
+       "tx": 0.4032,
+       "tz": -0.3,
+       "w": 0.3226,
+       "x": 0.4032,
+       "y": 0.3067,
+       "z": -0.1
+      }
+     ],
+     "room": [
+      "utility",
+      "garage",
+      "kitchen",
+      "hall"
+     ],
+     "size": [
+      0.62,
+      0.1,
+      1.5
+     ],
+     "surface": false,
+     "tags": [
+      "broom",
+      "mop",
+      "wall rack",
+      "cleaning",
+      "storage",
+      "tool holder",
+      "dustpan",
+      "spring clips"
+     ],
+     "variant": {
+      "en": "With broom, mop and dustpan"
+     },
+     "vehicle": false,
+     "wall_y": 0.15
+    },
+    {
+     "electric": false,
+     "family": "bay_window",
+     "group": "architecture",
+     "hole": false,
+     "id": "bay_window_box_200",
+     "mount": "floor",
+     "name": {
+      "en": "Bay window"
+     },
+     "parts": [
+      {
+       "color": "#a0583e",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.2449,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.319,
+       "x": -0.3405,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#a0583e",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.2449,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.3
+      },
+      {
+       "color": "#a0583e",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.2449,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.319,
+       "x": 0.3405,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.5091,
+       "edges": false,
+       "glow": false,
+       "h": 0.0245,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.331,
+       "x": -0.3345,
+       "y": 0.2449,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.5091,
+       "edges": false,
+       "glow": false,
+       "h": 0.0245,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.2449,
+       "z": 0.2455
+      },
+      {
+       "color": "white",
+       "d": 0.5091,
+       "edges": false,
+       "glow": false,
+       "h": 0.0245,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.331,
+       "x": 0.3345,
+       "y": 0.2449,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0245,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.291,
+       "x": -0.3545,
+       "y": 0.2694,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0245,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.2694,
+       "z": 0.3545
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0245,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.291,
+       "x": 0.3545,
+       "y": 0.2694,
+       "z": 0.0
+      },
+      {
+       "color": "glass",
+       "d": 0.0364,
+       "edges": false,
+       "glow": false,
+       "h": 0.5388,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.279,
+       "x": -0.3605,
+       "y": 0.2939,
+       "z": 0.0
+      },
+      {
+       "color": "glass",
+       "d": 0.0364,
+       "edges": false,
+       "glow": false,
+       "h": 0.5388,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.2939,
+       "z": 0.3545
+      },
+      {
+       "color": "glass",
+       "d": 0.0364,
+       "edges": false,
+       "glow": false,
+       "h": 0.5388,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.279,
+       "x": 0.3605,
+       "y": 0.2939,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0204,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.291,
+       "x": -0.3545,
+       "y": 0.702,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0204,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.702,
+       "z": 0.3545
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0204,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.291,
+       "x": 0.3545,
+       "y": 0.702,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0327,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.291,
+       "x": -0.3545,
+       "y": 0.8327,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0327,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.8327,
+       "z": 0.3545
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.0327,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.291,
+       "x": 0.3545,
+       "y": 0.8327,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.1818,
+       "edges": false,
+       "glow": false,
+       "h": 0.5959,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": -0.475,
+       "y": 0.2694,
+       "z": -0.4091
+      },
+      {
+       "color": "white",
+       "d": 0.1818,
+       "edges": false,
+       "glow": false,
+       "h": 0.5959,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": -0.475,
+       "y": 0.2694,
+       "z": 0.4091
+      },
+      {
+       "color": "white",
+       "d": 0.1818,
+       "edges": false,
+       "glow": false,
+       "h": 0.5959,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": 0.475,
+       "y": 0.2694,
+       "z": 0.4091
+      },
+      {
+       "color": "white",
+       "d": 0.1818,
+       "edges": false,
+       "glow": false,
+       "h": 0.5959,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": 0.475,
+       "y": 0.2694,
+       "z": -0.4091
+      },
+      {
+       "color": "white",
+       "d": 0.1455,
+       "edges": false,
+       "glow": false,
+       "h": 0.5959,
+       "screen": false,
+       "shape": "box",
+       "w": 0.03,
+       "x": 0.0,
+       "y": 0.2694,
+       "z": 0.3545
+      },
+      {
+       "color": "white",
+       "d": 0.4364,
+       "edges": false,
+       "glow": false,
+       "h": 0.0571,
+       "rot": 90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.323,
+       "x": -0.3385,
+       "y": 0.8653,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.4364,
+       "edges": false,
+       "glow": false,
+       "h": 0.0571,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.8653,
+       "z": 0.2818
+      },
+      {
+       "color": "white",
+       "d": 0.4364,
+       "edges": false,
+       "glow": false,
+       "h": 0.0571,
+       "rot": -90.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.323,
+       "x": 0.3385,
+       "y": 0.8653,
+       "z": 0.0
+      },
+      {
+       "color": "#5d6670",
+       "d": 0.1091,
+       "edges": false,
+       "glow": false,
+       "h": 0.0776,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1091,
+       "tw": 1.0,
+       "tx": 0.0,
+       "tz": -0.4455,
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.9224,
+       "z": 0.4455
+      }
+     ],
+     "room": [
+      "living",
+      "dining",
+      "bedroom"
+     ],
+     "size": [
+      2.0,
+      0.55,
+      2.45
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "shape": "line",
+       "x1": -0.5,
+       "x2": -0.5,
+       "z1": -0.5,
+       "z2": 0.5
+      },
+      {
+       "shape": "line",
+       "x1": -0.5,
+       "x2": 0.5,
+       "z1": 0.5,
+       "z2": 0.5
+      },
+      {
+       "shape": "line",
+       "x1": 0.5,
+       "x2": 0.5,
+       "z1": 0.5,
+       "z2": -0.5
+      },
+      {
+       "shape": "line",
+       "x1": -0.45,
+       "x2": 0.45,
+       "z1": -0.5,
+       "z2": -0.5
+      }
+     ],
+     "tags": [
+      "bay window",
+      "bay",
+      "window",
+      "victorian",
+      "edwardian",
+      "period",
+      "projecting window",
+      "box bay",
+      "square bay"
+     ],
+     "variant": {
+      "en": "Box bay, 200 cm"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "group": "pets",
+     "hole": false,
+     "id": "animo_activity_monitor",
+     "mount": "surface",
+     "name": {
+      "en": "Sure Petcare Animo (collar monitor)"
+     },
+     "parts": [
+      {
+       "axis": "z",
+       "color": "white",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "#46d36a",
+       "d": 0.35,
+       "edges": false,
+       "glow": true,
+       "h": 0.2,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.35,
+       "x": 0.0,
+       "y": 0.9,
+       "z": 0.0
+      }
+     ],
+     "room": [],
+     "size": [
+      0.037,
+      0.0115,
+      0.037
+     ],
+     "surface": false,
+     "tags": [
+      "sure petcare",
+      "surepet",
+      "animo",
+      "activity monitor",
+      "collar",
+      "dog tracker",
+      "pet tracker",
+      "behaviour",
+      "smart"
+     ],
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "8 new items.",
+   "source": "official",
+   "thumbnail": "broom_mop_wall_rack",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.household"
+  },
+  {
+   "categories": {
+    "appliance": 8,
+    "bath": 16,
+    "bed": 34,
+    "candle": 10,
+    "cushion": 4,
+    "deco": 56,
+    "frame": 15,
+    "household": 2,
+    "kids": 33,
+    "kitchen": 26,
+    "lamp": 65,
+    "media": 15,
+    "office": 25,
+    "outdoor": 8,
+    "plant": 13,
+    "seating": 21,
+    "sofa": 29,
+    "storage": 125,
+    "table": 33,
+    "throw": 3,
+    "tray": 2,
+    "vase": 4
+   },
+   "description": "IKEA UK bestsellers in their sizes, modelled for Home 3D from simple shapes. Search by the readable name or the IKEA name. Not made or endorsed by IKEA.",
+   "id": "theovencook.ikea-uk",
+   "items": 547,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "IKEA UK range",
+   "previews": [
+    {
+     "electric": false,
+     "family": "aheim_mirror_door",
+     "group": "storage",
+     "hole": false,
+     "id": "aheim_mirror_door_50x195",
+     "ikea": "ÅHEIM",
+     "mount": "floor",
+     "name": {
+      "en": "Mirror door for a fitted wardrobe, 50x195 cm"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 0.6,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.2
+      },
+      {
+       "color": "glass",
+       "d": 0.3,
+       "edges": false,
+       "glow": false,
+       "h": 0.9979,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9919,
+       "x": 0.0,
+       "y": 0.001,
+       "z": 0.2
+      }
+     ],
+     "room": [
+      "bedroom",
+      "hall"
+     ],
+     "size": [
+      0.495,
+      0.02,
+      1.95
+     ],
+     "surface": false,
+     "tags": [
+      "wardrobe door",
+      "mirror door",
+      "mirror glass",
+      "pax",
+      "door"
+     ],
+     "variant": {
+      "en": "50x195"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "arstid_lamp",
+     "group": "lamp",
+     "hole": false,
+     "id": "arstid_floor_lamp",
+     "ikea": "ÅRSTID",
+     "light": "floor",
+     "mount": "floor",
+     "name": {
+      "en": "Floor lamp, brass 155 cm"
+     },
+     "parts": [
+      {
+       "color": "metal",
+       "d": 0.7778,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0161,
+       "profile": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         1.0,
+         0.0
+        ],
+        [
+         0.95,
+         1.0
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 0.7778,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "metal",
+       "d": 0.0611,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.8452,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0611,
+       "x": 0.0,
+       "y": 0.0129,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 1.0,
+       "edges": "faint",
+       "glow": false,
+       "h": 0.1742,
+       "profile": [
+        [
+         1.0,
+         0.0
+        ],
+        [
+         0.82,
+         1.0
+        ],
+        [
+         0.78,
+         1.0
+        ],
+        [
+         0.96,
+         0.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.8258,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.85,
+       "edges": false,
+       "fix": "h",
+       "glow": true,
+       "h": 0.0052,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.85,
+       "x": 0.0,
+       "y": 0.8323,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "bedroom",
+      "office"
+     ],
+     "size": [
+      0.36,
+      0.36,
+      1.55
+     ],
+     "surface": false,
+     "tags": [
+      "ARSTID",
+      "floor lamp",
+      "standard lamp",
+      "brass",
+      "white shade",
+      "classic"
+     ],
+     "variant": {
+      "en": "Floor lamp"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "group": "deco",
+     "hole": false,
+     "id": "annakajsa_curtains_eyelets_145x250",
+     "ikea": "ANNAKAJSA",
+     "mount": "floor",
+     "name": {
+      "en": "Room darkening curtains, 1 pair 145x250 cm, eyelets"
+     },
+     "parts": [
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.35,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0112,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.984,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": -0.4375,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": -0.3125,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": -0.1875,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": -0.0625,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": 0.0625,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": 0.1875,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": 0.3125,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.15,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0345,
+       "x": 0.4375,
+       "y": 0.976,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.4,
+       "edges": false,
+       "fix": "d",
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "box",
+       "w": 0.98,
+       "x": 0.0,
+       "y": 0.0016,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": -0.4375,
+       "y": 0.0016,
+       "z": -0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": -0.3125,
+       "y": 0.0016,
+       "z": 0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": -0.1875,
+       "y": 0.0016,
+       "z": -0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": -0.0625,
+       "y": 0.0016,
+       "z": 0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": 0.0625,
+       "y": 0.0016,
+       "z": -0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": 0.1875,
+       "y": 0.0016,
+       "z": 0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": 0.3125,
+       "y": 0.0016,
+       "z": -0.125
+      },
+      {
+       "color": "fabric",
+       "d": 0.75,
+       "edges": false,
+       "glow": false,
+       "h": 0.9704,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1437,
+       "x": 0.4375,
+       "y": 0.0016,
+       "z": 0.125
+      }
+     ],
+     "room": [
+      "bedroom",
+      "kids",
+      "living",
+      "dining",
+      "office"
+     ],
+     "size": [
+      1.45,
+      0.08,
+      2.5
+     ],
+     "surface": false,
+     "tags": [
+      "ANNAKAJSA",
+      "curtains",
+      "room darkening",
+      "blackout",
+      "eyelets",
+      "beige",
+      "yellow-brown",
+      "pair"
+     ],
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "afjall_mattress",
+     "group": "bed",
+     "hole": false,
+     "id": "afjall_mattress_double",
+     "ikea": "ÅFJÄLL",
+     "mount": "floor",
+     "name": {
+      "en": "Foam mattress, Double 135x190"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "bedroom",
+      "kids"
+     ],
+     "size": [
+      1.35,
+      1.9,
+      0.12
+     ],
+     "surface": false,
+     "tags": [
+      "mattress",
+      "double",
+      "foam",
+      "medium firm",
+      "firm",
+      "day-bed",
+      "white"
+     ],
+     "variant": {
+      "en": "Double · 135x190"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "blahaj_soft_toy",
+     "group": "kids",
+     "hole": false,
+     "id": "blahaj_shark_100",
+     "ikea": "BLÅHAJ",
+     "mount": "floor",
+     "name": {
+      "en": "Soft toy shark 100 cm"
+     },
+     "parts": [
+      {
+       "color": "fabric",
+       "d": 0.9444,
+       "edges": false,
+       "glow": false,
+       "h": 0.9333,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.62,
+       "x": 0.08,
+       "y": 0.0667,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.7778,
+       "edges": false,
+       "glow": false,
+       "h": 0.7333,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.36,
+       "x": 0.32,
+       "y": 0.1,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.5556,
+       "edges": false,
+       "glow": false,
+       "h": 0.5667,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.4,
+       "x": -0.2,
+       "y": 0.1333,
+       "z": 0.0
+      },
+      {
+       "color": "white",
+       "d": 0.7222,
+       "edges": false,
+       "glow": false,
+       "h": 0.3333,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.5,
+       "x": 0.09,
+       "y": 0.05,
+       "z": 0.0278
+      },
+      {
+       "color": "fabric",
+       "d": 0.0833,
+       "edges": false,
+       "glow": false,
+       "h": 0.8667,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0556,
+       "tw": 0.1,
+       "tx": -0.48,
+       "tz": 0.0,
+       "w": 0.1,
+       "x": -0.43,
+       "y": 0.0667,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.0833,
+       "edges": false,
+       "glow": false,
+       "h": 0.3333,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0278,
+       "tw": 0.03,
+       "tx": -0.05,
+       "tz": 0.0,
+       "w": 0.16,
+       "x": 0.0,
+       "y": 0.6667,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.2778,
+       "edges": false,
+       "glow": false,
+       "h": 0.1,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1111,
+       "tw": 0.05,
+       "tx": 0.06,
+       "tz": -0.5,
+       "w": 0.14,
+       "x": 0.14,
+       "y": 0.0667,
+       "z": -0.3889
+      },
+      {
+       "color": "fabric",
+       "d": 0.2778,
+       "edges": false,
+       "glow": false,
+       "h": 0.1,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.1111,
+       "tw": 0.05,
+       "tx": 0.06,
+       "tz": 0.5,
+       "w": 0.14,
+       "x": 0.14,
+       "y": 0.0667,
+       "z": 0.3889
+      },
+      {
+       "color": "dark",
+       "d": 0.0556,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0833,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.025,
+       "x": 0.42,
+       "y": 0.3667,
+       "z": 0.2222
+      },
+      {
+       "color": "dark",
+       "d": 0.0556,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0833,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.025,
+       "x": 0.42,
+       "y": 0.3667,
+       "z": -0.2222
+      }
+     ],
+     "room": [
+      "kids",
+      "bedroom",
+      "living"
+     ],
+     "size": [
+      1.0,
+      0.36,
+      0.3
+     ],
+     "surface": false,
+     "tags": [
+      "BLAHAJ",
+      "shark",
+      "soft toy",
+      "plush",
+      "cuddly toy",
+      "stuffed animal",
+      "grey",
+      "blue",
+      "large"
+     ],
+     "variant": {
+      "en": "100 cm"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "borgeby_table",
+     "group": "table",
+     "hole": false,
+     "id": "borgeby_coffee_table_70",
+     "ikea": "BORGEBY",
+     "mount": "floor",
+     "name": {
+      "en": "Round coffee table 70 cm"
+     },
+     "parts": [
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0444,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.9556,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0556,
+       "profile": [
+        [
+         0.97,
+         0.0
+        ],
+        [
+         1.0,
+         0.0
+        ],
+        [
+         1.0,
+         1.0
+        ],
+        [
+         0.97,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.9,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 0.8857,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.8857,
+       "x": 0.0,
+       "y": 0.1333,
+       "z": 0.0
+      },
+      {
+       "color": "wood",
+       "d": 0.0429,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9556,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0429,
+       "x": 0.2929,
+       "y": 0.0,
+       "z": 0.2929
+      },
+      {
+       "color": "wood",
+       "d": 0.0429,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9556,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0429,
+       "x": -0.2929,
+       "y": 0.0,
+       "z": 0.2929
+      },
+      {
+       "color": "wood",
+       "d": 0.0429,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9556,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0429,
+       "x": -0.2929,
+       "y": 0.0,
+       "z": -0.2929
+      },
+      {
+       "color": "wood",
+       "d": 0.0429,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9556,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0429,
+       "x": 0.2929,
+       "y": 0.0,
+       "z": -0.2929
+      }
+     ],
+     "room": [
+      "living",
+      "bedroom"
+     ],
+     "size": [
+      0.7,
+      0.7,
+      0.45
+     ],
+     "surface": true,
+     "tags": [
+      "coffee table",
+      "round",
+      "shelf",
+      "birch veneer",
+      "black"
+     ],
+     "variant": {
+      "en": "Coffee table 70"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "source": "official",
+   "thumbnail": "aheim_mirror_door_50x195",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.ikea-uk"
+  },
+  {
+   "categories": {
+    "network": 108,
+    "tech": 18
+   },
+   "description": "Racks, switches, routers, NAS boxes, access points and UPSs for the cupboard under the stairs or the server room, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.it",
+   "items": 126,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "IT & network",
+   "previews": [
+    {
+     "electric": true,
+     "family": "mini_pc",
+     "group": "network",
+     "hole": false,
+     "id": "mini_pc_beelink",
+     "mount": "surface",
+     "name": {
+      "en": "Mini PC, Beelink"
+     },
+     "parts": [
+      {
+       "color": "#8a8f98",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.12,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.0059,
+       "edges": false,
+       "glow": false,
+       "h": 0.3,
+       "screen": false,
+       "shape": "box",
+       "w": 0.8,
+       "x": 0.0,
+       "y": 0.3,
+       "z": 0.4971
+      },
+      {
+       "color": "#46d36a",
+       "d": 0.0039,
+       "edges": false,
+       "glow": true,
+       "h": 0.0513,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0174,
+       "x": -0.3,
+       "y": 0.65,
+       "z": 0.498
+      }
+     ],
+     "room": [
+      "office",
+      "utility",
+      "loft",
+      "living",
+      "hall"
+     ],
+     "size": [
+      0.115,
+      0.102,
+      0.039
+     ],
+     "surface": false,
+     "tags": [
+      "beelink",
+      "mini s12",
+      "s12 pro",
+      "n100",
+      "mini pc",
+      "nuc",
+      "micro pc",
+      "small pc",
+      "home server",
+      "server",
+      "homelab"
+     ],
+     "variant": {
+      "en": "Beelink Mini S12 Pro"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "dev_board",
+     "group": "tech",
+     "hole": false,
+     "id": "d1_mini",
+     "mount": "surface",
+     "name": {
+      "en": "D1 mini ESP board"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 0.0977,
+       "edges": false,
+       "glow": false,
+       "h": 0.6667,
+       "screen": false,
+       "shape": "box",
+       "w": 0.5936,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.4102
+      },
+      {
+       "color": "dark",
+       "d": 0.0977,
+       "edges": false,
+       "glow": false,
+       "h": 0.6667,
+       "screen": false,
+       "shape": "box",
+       "w": 0.5936,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.4102
+      },
+      {
+       "color": "#1d3d8a",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.1333,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.6667,
+       "z": 0.0
+      },
+      {
+       "color": "metal",
+       "d": 0.4883,
+       "edges": false,
+       "glow": false,
+       "h": 0.2,
+       "screen": false,
+       "shape": "box",
+       "w": 0.4678,
+       "x": 0.1462,
+       "y": 0.8,
+       "z": 0.0
+      },
+      {
+       "color": "metal",
+       "d": 0.293,
+       "edges": false,
+       "glow": false,
+       "h": 0.2,
+       "screen": false,
+       "shape": "box",
+       "w": 0.2047,
+       "x": -0.3655,
+       "y": 0.8,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "office",
+      "hobby",
+      "utility",
+      "loft"
+     ],
+     "size": [
+      0.0342,
+      0.0256,
+      0.012
+     ],
+     "surface": false,
+     "tags": [
+      "esp8266",
+      "esp32",
+      "d1 mini",
+      "wemos",
+      "lolin",
+      "esp",
+      "dev board",
+      "microcontroller",
+      "esphome",
+      "wifi",
+      "development board"
+     ],
+     "variant": {
+      "en": "D1 mini"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "source": "official",
+   "thumbnail": "mini_pc_beelink",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.it"
+  },
+  {
+   "categories": {
+    "appliance": 86,
+    "bath": 40,
+    "kitchen": 90
+   },
+   "description": "Kitchen units, appliances and bathroom fittings, modelled for Home 3D from simple shapes. Appliances can be linked to a switch and a power sensor. Ships with the app and works offline.",
+   "id": "theovencook.kitchen-bath",
+   "items": 216,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Kitchen & bath",
+   "previews": [
+    {
+     "electric": false,
+     "family": "fruit_basket",
+     "group": "kitchen",
+     "hole": false,
+     "id": "banana_stand",
+     "mount": "surface",
+     "name": {
+      "en": "Banana stand with bananas"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 0.9,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0417,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.9,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#c4c8cd",
+       "d": 0.05,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.05,
+       "x": 0.0,
+       "y": 0.0417,
+       "z": 0.0
+      },
+      {
+       "color": "#c4c8cd",
+       "d": 0.05,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0278,
+       "screen": false,
+       "shape": "box",
+       "w": 0.5,
+       "x": 0.2,
+       "y": 0.9,
+       "z": 0.0
+      },
+      {
+       "color": "#e9d04a",
+       "d": 0.125,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.38,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.075,
+       "tw": 0.075,
+       "tx": 0.3,
+       "tz": -0.05,
+       "w": 0.15,
+       "x": 0.425,
+       "y": 0.52,
+       "z": -0.05
+      },
+      {
+       "color": "#e9d04a",
+       "d": 0.125,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.38,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.075,
+       "tw": 0.075,
+       "tx": 0.3,
+       "tz": 0.0,
+       "w": 0.15,
+       "x": 0.425,
+       "y": 0.52,
+       "z": 0.0
+      },
+      {
+       "color": "#e9d04a",
+       "d": 0.125,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.38,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.075,
+       "tw": 0.075,
+       "tx": 0.3,
+       "tz": 0.05,
+       "w": 0.15,
+       "x": 0.425,
+       "y": 0.52,
+       "z": 0.05
+      }
+     ],
+     "room": [
+      "kitchen"
+     ],
+     "size": [
+      0.2,
+      0.2,
+      0.36
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "r": 0.5,
+       "shape": "circle",
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "fruit bowl",
+      "fruit basket",
+      "fruit stand",
+      "apples",
+      "oranges",
+      "kitchen",
+      "worktop"
+     ],
+     "variant": {
+      "en": "Banana stand"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "air_fryer",
+     "group": "appliance",
+     "hole": false,
+     "id": "air_fryer",
+     "mount": "surface",
+     "name": {
+      "en": "Air fryer"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 0.0694,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0375,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0893,
+       "x": -0.3571,
+       "y": 0.0,
+       "z": -0.3889
+      },
+      {
+       "color": "dark",
+       "d": 0.0694,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0375,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0893,
+       "x": -0.3571,
+       "y": 0.0,
+       "z": 0.3333
+      },
+      {
+       "color": "dark",
+       "d": 0.0694,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0375,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0893,
+       "x": 0.3571,
+       "y": 0.0,
+       "z": -0.3889
+      },
+      {
+       "color": "dark",
+       "d": 0.0694,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0375,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0893,
+       "x": 0.3571,
+       "y": 0.0,
+       "z": 0.3333
+      },
+      {
+       "color": "dark",
+       "d": 0.9167,
+       "edges": false,
+       "glow": false,
+       "h": 0.9625,
+       "round": 0.15,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0375,
+       "z": -0.0417
+      },
+      {
+       "color": "#2a2c30",
+       "d": 0.0417,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0719,
+       "screen": false,
+       "shape": "box",
+       "w": 0.7143,
+       "x": 0.0,
+       "y": 0.8906,
+       "z": 0.4236
+      },
+      {
+       "color": "#7fe3ff",
+       "d": 0.0042,
+       "edges": "faint",
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.125,
+       "screen": false,
+       "shape": "box",
+       "w": 0.2857,
+       "x": 0.0,
+       "y": 0.6875,
+       "z": 0.4174
+      },
+      {
+       "color": "dark",
+       "d": 0.0556,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "round": 0.15,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.8571,
+       "x": 0.0,
+       "y": 0.0938,
+       "z": 0.4167
+      },
+      {
+       "color": "#3a3d42",
+       "d": 0.0556,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.0938,
+       "screen": false,
+       "shape": "box",
+       "w": 0.2143,
+       "x": 0.0,
+       "y": 0.375,
+       "z": 0.4722
+      },
+      {
+       "color": "#3a3d42",
+       "d": 0.0278,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.1875,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1571,
+       "x": 0.0,
+       "y": 0.1875,
+       "z": 0.4861
+      }
+     ],
+     "room": [
+      "kitchen"
+     ],
+     "size": [
+      0.28,
+      0.36,
+      0.32
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "air fryer",
+      "airfryer",
+      "fryer",
+      "ninja",
+      "cooking",
+      "countertop"
+     ],
+     "variant": {
+      "en": "Single basket"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bath_mat",
+     "group": "bath",
+     "hole": false,
+     "id": "bath_mat_50x80",
+     "mount": "floor",
+     "name": {
+      "en": "Bath mat 50 × 80"
+     },
+     "parts": [
+      {
+       "color": "fabric",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.5,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "bath"
+     ],
+     "size": [
+      0.8,
+      0.5,
+      0.015
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "bath mat",
+      "bathmat",
+      "shower mat",
+      "mat",
+      "rug",
+      "toilet mat",
+      "pedestal mat"
+     ],
+     "variant": {
+      "en": "50 × 80"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "New: worktop gear (air fryers, multi-cookers, blenders, boards, knife blocks, bread bins, spice racks) and L-shaped corner sink units.",
+   "source": "official",
+   "thumbnail": "banana_stand",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.kitchen-bath"
+  },
+  {
+   "categories": {
+    "heating": 13,
+    "lamp": 65,
+    "media": 84,
+    "seating": 31,
+    "sofa": 24,
+    "table": 24
+   },
+   "description": "Sofas, seating, tables, lamps and media furniture for the living room, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.living",
+   "items": 241,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Living",
+   "previews": [
+    {
+     "electric": true,
+     "family": "arcade_cabinet",
+     "group": "media",
+     "hole": false,
+     "id": "arcade_cabinet",
+     "mount": "floor",
+     "name": {
+      "en": "Arcade cabinet"
+     },
+     "parts": [
+      {
+       "color": "#16171a",
+       "d": 0.86,
+       "edges": false,
+       "glow": false,
+       "h": 0.1685,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.0625
+      },
+      {
+       "color": "#16171a",
+       "d": 0.7,
+       "edges": false,
+       "glow": false,
+       "h": 0.6292,
+       "screen": false,
+       "shape": "box",
+       "w": 0.88,
+       "x": 0.0,
+       "y": 0.1685,
+       "z": -0.125
+      },
+      {
+       "color": "#3a3d42",
+       "d": 0.2,
+       "edges": false,
+       "glow": false,
+       "h": 0.0225,
+       "screen": false,
+       "shape": "box",
+       "w": 0.8,
+       "x": 0.0,
+       "y": 0.5056,
+       "z": 0.025
+      },
+      {
+       "color": "#101114",
+       "d": 0.18,
+       "edges": false,
+       "glow": false,
+       "h": 0.0112,
+       "screen": false,
+       "shape": "box",
+       "w": 0.8,
+       "x": 0.0,
+       "y": 0.4944,
+       "z": 0.15
+      },
+      {
+       "color": "#e8504a",
+       "d": 0.0375,
+       "edges": false,
+       "glow": false,
+       "h": 0.0393,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0455,
+       "x": -0.2727,
+       "y": 0.5169,
+       "z": 0.225
+      },
+      {
+       "color": "#e8504a",
+       "d": 0.0625,
+       "edges": false,
+       "glow": false,
+       "h": 0.0281,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.0758,
+       "x": -0.2727,
+       "y": 0.5562,
+       "z": 0.225
+      },
+      {
+       "color": "#e8504a",
+       "d": 0.0375,
+       "edges": false,
+       "glow": false,
+       "h": 0.0393,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0455,
+       "x": 0.2727,
+       "y": 0.5169,
+       "z": 0.225
+      },
+      {
+       "color": "#e8504a",
+       "d": 0.0625,
+       "edges": false,
+       "glow": false,
+       "h": 0.0281,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.0758,
+       "x": 0.2727,
+       "y": 0.5562,
+       "z": 0.225
+      },
+      {
+       "color": "#e8c04a",
+       "d": 0.0375,
+       "edges": false,
+       "glow": false,
+       "h": 0.0112,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0455,
+       "x": 0.0909,
+       "y": 0.5169,
+       "z": 0.15
+      },
+      {
+       "color": "#e8c04a",
+       "d": 0.0375,
+       "edges": false,
+       "glow": false,
+       "h": 0.0112,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0455,
+       "x": 0.1818,
+       "y": 0.5169,
+       "z": 0.15
+      },
+      {
+       "color": "#e8c04a",
+       "d": 0.0375,
+       "edges": false,
+       "glow": false,
+       "h": 0.0112,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0455,
+       "x": 0.2727,
+       "y": 0.5169,
+       "z": 0.15
+      },
+      {
+       "color": "#e8c04a",
+       "d": 0.0375,
+       "edges": false,
+       "glow": false,
+       "h": 0.0112,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0455,
+       "x": 0.3636,
+       "y": 0.5169,
+       "z": 0.15
+      },
+      {
+       "color": "#101114",
+       "d": 0.0125,
+       "edges": false,
+       "glow": false,
+       "h": 0.2809,
+       "screen": false,
+       "shape": "box",
+       "w": 0.78,
+       "x": 0.0,
+       "y": 0.6067,
+       "z": 0.125
+      },
+      {
+       "color": "glass",
+       "d": 0.0125,
+       "edges": false,
+       "glow": false,
+       "h": 0.2472,
+       "screen": true,
+       "shape": "box",
+       "w": 0.7,
+       "x": 0.0,
+       "y": 0.6292,
+       "z": 0.25
+      },
+      {
+       "color": "accent",
+       "d": 0.25,
+       "edges": "glow",
+       "glow": false,
+       "h": 0.0899,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9,
+       "x": 0.0,
+       "y": 0.9101,
+       "z": 0.3125
+      },
+      {
+       "color": "#101114",
+       "d": 0.0625,
+       "edges": false,
+       "glow": false,
+       "h": 0.309,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9,
+       "x": 0.0,
+       "y": 0.1685,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "living",
+      "hobby",
+      "loft",
+      "kids"
+     ],
+     "size": [
+      0.66,
+      0.8,
+      1.78
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "arcade",
+      "arcade cabinet",
+      "arcade machine",
+      "retro",
+      "gaming",
+      "mame",
+      "bartop",
+      "console"
+     ],
+     "variant": {
+      "en": "Upright"
+     },
+     "vehicle": false,
+     "wall_y": 1.0,
+     "watts": 150
+    },
+    {
+     "electric": false,
+     "family": "anglepoise_lamp",
+     "group": "lamp",
+     "hole": false,
+     "id": "anglepoise_lamp",
+     "light": "table",
+     "mount": "surface",
+     "name": {
+      "en": "Anglepoise desk lamp"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 0.381,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.05,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.2857
+      },
+      {
+       "color": "dark",
+       "d": 0.0286,
+       "edges": false,
+       "glow": false,
+       "h": 0.6,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0286,
+       "tw": 0.075,
+       "tx": -0.075,
+       "tz": -0.0952,
+       "w": 0.075,
+       "x": -0.075,
+       "y": 0.05,
+       "z": -0.2857
+      },
+      {
+       "color": "dark",
+       "d": 0.0286,
+       "edges": false,
+       "glow": false,
+       "h": 0.6,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0286,
+       "tw": 0.075,
+       "tx": 0.075,
+       "tz": -0.0952,
+       "w": 0.075,
+       "x": 0.075,
+       "y": 0.05,
+       "z": -0.2857
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0714,
+       "edges": false,
+       "glow": false,
+       "h": 0.06,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.25,
+       "x": 0.0,
+       "y": 0.62,
+       "z": -0.0952
+      },
+      {
+       "axis": "z",
+       "color": "dark",
+       "d": 0.4286,
+       "edges": false,
+       "glow": false,
+       "h": 0.032,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1,
+       "x": 0.0,
+       "y": 0.634,
+       "z": 0.119
+      },
+      {
+       "color": "dark",
+       "d": 0.3095,
+       "edges": false,
+       "glow": false,
+       "h": 0.3,
+       "profile": [
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         0.03
+        ],
+        [
+         0.85,
+         0.35
+        ],
+        [
+         0.45,
+         0.75
+        ],
+        [
+         0.3,
+         1.0
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 0.8125,
+       "x": 0.0,
+       "y": 0.33,
+       "z": 0.3333
+      },
+      {
+       "color": "white",
+       "d": 0.2786,
+       "edges": false,
+       "glow": true,
+       "h": 0.032,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.7313,
+       "x": 0.0,
+       "y": 0.306,
+       "z": 0.3333
+      }
+     ],
+     "room": [
+      "office",
+      "bedroom",
+      "living",
+      "hobby"
+     ],
+     "size": [
+      0.16,
+      0.42,
+      0.5
+     ],
+     "surface": false,
+     "tags": [
+      "desk lamp",
+      "task lamp",
+      "swing arm",
+      "adjustable lamp",
+      "reading lamp",
+      "work light"
+     ],
+     "variant": {
+      "en": "Desk"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bean_bag",
+     "group": "seating",
+     "hole": false,
+     "id": "bean_bag",
+     "mount": "floor",
+     "name": {
+      "en": "Bean bag"
+     },
+     "parts": [
+      {
+       "color": "fabric",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "profile": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         0.82,
+         0.0
+        ],
+        [
+         1.0,
+         0.18
+        ],
+        [
+         0.95,
+         0.42
+        ],
+        [
+         0.75,
+         0.62
+        ],
+        [
+         0.55,
+         0.85
+        ],
+        [
+         0.3,
+         1.0
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.42,
+       "edges": false,
+       "glow": false,
+       "h": 0.24,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.6,
+       "x": 0.0,
+       "y": 0.38,
+       "z": 0.21
+      }
+     ],
+     "room": [
+      "living",
+      "kids",
+      "bedroom",
+      "loft"
+     ],
+     "size": [
+      0.8,
+      0.8,
+      0.85
+     ],
+     "surface": false,
+     "tags": [
+      "bean bag",
+      "beanbag",
+      "bean bag chair",
+      "pouffe",
+      "floor seat",
+      "lounger"
+     ],
+     "variant": {
+      "en": "Classic"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "chaise_longue",
+     "group": "sofa",
+     "hole": false,
+     "id": "chaise_longue_left",
+     "mount": "floor",
+     "name": {
+      "en": "Chaise longue"
+     },
+     "parts": [
+      {
+       "color": "wood",
+       "d": 0.0662,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0273,
+       "x": -0.45,
+       "y": 0.0,
+       "z": -0.3787
+      },
+      {
+       "color": "wood",
+       "d": 0.0662,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0273,
+       "x": -0.45,
+       "y": 0.0,
+       "z": 0.3787
+      },
+      {
+       "color": "wood",
+       "d": 0.0662,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0273,
+       "x": 0.45,
+       "y": 0.0,
+       "z": -0.3787
+      },
+      {
+       "color": "wood",
+       "d": 0.0662,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0273,
+       "x": 0.45,
+       "y": 0.0,
+       "z": 0.3787
+      },
+      {
+       "color": "fabric",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.2619,
+       "round": 0.12,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.1905,
+       "z": 0.0
+      },
+      {
+       "color": "cushion",
+       "d": 0.8088,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.1071,
+       "round": 0.35,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.8485,
+       "x": 0.0697,
+       "y": 0.4524,
+       "z": 0.0809
+      },
+      {
+       "color": "fabric",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.4524,
+       "screen": false,
+       "shape": "loft",
+       "td": 1.0,
+       "tw": 0.0727,
+       "tx": -0.4636,
+       "tz": 0.0,
+       "w": 0.1576,
+       "x": -0.4212,
+       "y": 0.4524,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "fabric",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.097,
+       "x": -0.4515,
+       "y": 0.8095,
+       "z": 0.0
+      },
+      {
+       "color": "fabric",
+       "d": 0.1765,
+       "edges": false,
+       "glow": false,
+       "h": 0.3333,
+       "round": 0.4,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.5909,
+       "x": -0.1439,
+       "y": 0.4524,
+       "z": -0.4118
+      },
+      {
+       "axis": "z",
+       "color": "cushion",
+       "d": 0.7647,
+       "edges": false,
+       "glow": false,
+       "h": 0.1548,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0788,
+       "x": -0.3,
+       "y": 0.5536,
+       "z": 0.0588
+      }
+     ],
+     "room": [
+      "living",
+      "bedroom",
+      "conservatory"
+     ],
+     "size": [
+      1.65,
+      0.68,
+      0.84
+     ],
+     "surface": false,
+     "tags": [
+      "chaise",
+      "chaise lounge",
+      "fainting couch",
+      "recliner",
+      "daybed",
+      "upholstered"
+     ],
+     "variant": {
+      "en": "Back on the left"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bistro_table",
+     "group": "table",
+     "hole": false,
+     "id": "bistro_table_round_60",
+     "mount": "floor",
+     "name": {
+      "en": "Bistro table"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 1.0,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0411,
+       "screen": false,
+       "shape": "cyl",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.9589,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.9667,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0274,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.9667,
+       "x": 0.0,
+       "y": 0.9315,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.0833,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.8493,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0833,
+       "x": 0.0,
+       "y": 0.0822,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7333,
+       "edges": false,
+       "fix": "wdh",
+       "glow": false,
+       "h": 0.1644,
+       "profile": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         1.0,
+         0.0
+        ],
+        [
+         0.95,
+         0.15
+        ],
+        [
+         0.35,
+         0.5
+        ],
+        [
+         0.15,
+         1.0
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 0.7333,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "kitchen",
+      "dining",
+      "garden",
+      "conservatory"
+     ],
+     "size": [
+      0.6,
+      0.6,
+      0.73
+     ],
+     "surface": true,
+     "tags": [
+      "bistro table",
+      "cafe table",
+      "pedestal table",
+      "small table",
+      "breakfast table",
+      "marble",
+      "round"
+     ],
+     "variant": {
+      "en": "Round Ø60"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "chiminea",
+     "group": "heating",
+     "hole": false,
+     "id": "chiminea",
+     "light": "garden",
+     "mount": "floor",
+     "name": {
+      "en": "Chiminea"
+     },
+     "parts": [
+      {
+       "color": "#2a2b2e",
+       "d": 0.7083,
+       "edges": false,
+       "glow": false,
+       "h": 0.0323,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.7083,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#8a4a2f",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.9677,
+       "profile": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         0.7083,
+         0.0
+        ],
+        [
+         0.9167,
+         0.1333
+        ],
+        [
+         1.0,
+         0.3333
+        ],
+        [
+         0.8333,
+         0.4667
+        ],
+        [
+         0.4167,
+         0.5778
+        ],
+        [
+         0.3542,
+         0.8889
+        ],
+        [
+         0.4583,
+         0.9333
+        ],
+        [
+         0.375,
+         1.0
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0323,
+       "z": 0.0
+      },
+      {
+       "color": "#121214",
+       "d": 0.1042,
+       "edges": false,
+       "glow": false,
+       "h": 0.1935,
+       "screen": false,
+       "shape": "box",
+       "w": 0.4167,
+       "x": 0.0,
+       "y": 0.1935,
+       "z": 0.3958
+      },
+      {
+       "color": "#ff8a2a",
+       "d": 0.0417,
+       "edges": false,
+       "glow": true,
+       "h": 0.1075,
+       "screen": false,
+       "shape": "box",
+       "w": 0.2917,
+       "x": 0.0,
+       "y": 0.2151,
+       "z": 0.4375
+      },
+      {
+       "color": "#ffc24a",
+       "d": 0.0417,
+       "edges": false,
+       "glow": true,
+       "h": 0.0753,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1875,
+       "x": 0.0,
+       "y": 0.2796,
+       "z": 0.4375
+      }
+     ],
+     "room": [
+      "garden",
+      "conservatory"
+     ],
+     "size": [
+      0.48,
+      0.48,
+      0.93
+     ],
+     "surface": false,
+     "tags": [
+      "chiminea",
+      "clay chiminea",
+      "patio heater",
+      "garden fire",
+      "fire pit",
+      "terracotta",
+      "chimney",
+      "outdoor fireplace"
+     ],
+     "variant": {
+      "en": "Clay"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "99 new items.",
+   "source": "official",
+   "thumbnail": "arcade_cabinet",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.living"
+  },
+  {
+   "categories": {
+    "tech": 143
+   },
+   "description": "3D printers (FDM and resin), wash and cure stations and workshop kit for makers, modelled for Home 3D from simple shapes. Printers show their progress, chamber light and camera when linked to a printer entity. Ships with the app and works offline.",
+   "id": "theovencook.makers",
+   "items": 143,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Makers",
+   "previews": [
+    {
+     "electric": true,
+     "family": "3d_printer",
+     "group": "tech",
+     "hole": false,
+     "id": "3d_printer",
+     "mount": "surface",
+     "name": {
+      "en": "3D printer"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.12,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "body",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.84,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.12,
+       "z": -0.48
+      },
+      {
+       "color": "body",
+       "d": 0.96,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.84,
+       "screen": false,
+       "shape": "box",
+       "w": 0.04,
+       "x": -0.48,
+       "y": 0.12,
+       "z": 0.02
+      },
+      {
+       "color": "body",
+       "d": 0.96,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.84,
+       "screen": false,
+       "shape": "box",
+       "w": 0.04,
+       "x": 0.48,
+       "y": 0.12,
+       "z": 0.02
+      },
+      {
+       "color": "dark",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "top": "glass",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.96,
+       "z": 0.0
+      },
+      {
+       "color": "glass",
+       "d": 0.02,
+       "edges": false,
+       "glow": false,
+       "h": 0.84,
+       "screen": false,
+       "shape": "box",
+       "w": 0.92,
+       "x": 0.0,
+       "y": 0.12,
+       "z": 0.49
+      },
+      {
+       "color": "#fff1d0",
+       "d": 0.04,
+       "edges": false,
+       "glow": true,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.84,
+       "x": 0.0,
+       "y": 0.92,
+       "z": 0.3
+      },
+      {
+       "color": "metal",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.03,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9,
+       "x": 0.0,
+       "y": 0.8,
+       "z": -0.06
+      },
+      {
+       "color": "dark",
+       "d": 0.14,
+       "edges": false,
+       "glow": false,
+       "h": 0.12,
+       "round": 0.25,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.16,
+       "x": 0.12,
+       "y": 0.68,
+       "z": -0.02
+      },
+      {
+       "color": "metal",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": 0.12,
+       "y": 0.64,
+       "z": -0.02
+      },
+      {
+       "color": "metal",
+       "d": 0.8,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.8,
+       "x": 0.0,
+       "y": 0.3,
+       "z": 0.0
+      },
+      {
+       "color": "metal",
+       "d": 0.04,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.84,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.04,
+       "x": -0.4,
+       "y": 0.12,
+       "z": -0.4
+      },
+      {
+       "color": "metal",
+       "d": 0.04,
+       "edges": false,
+       "fix": "w",
+       "glow": false,
+       "h": 0.84,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.04,
+       "x": 0.4,
+       "y": 0.12,
+       "z": -0.4
+      },
+      {
+       "color": "accent",
+       "d": 0.18,
+       "edges": false,
+       "glow": false,
+       "h": 0.2,
+       "profile": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         0.7,
+         0.0
+        ],
+        [
+         1.0,
+         0.4
+        ],
+        [
+         0.55,
+         1.0
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 0.18,
+       "x": 0.12,
+       "y": 0.32,
+       "z": 0.04
+      },
+      {
+       "color": "accent",
+       "d": 0.01,
+       "edges": "glow",
+       "glow": false,
+       "h": 0.08,
+       "screen": false,
+       "shape": "box",
+       "w": 0.3,
+       "x": -0.22,
+       "y": 0.02,
+       "z": 0.5
+      }
+     ],
+     "room": [
+      "office",
+      "hobby",
+      "garage"
+     ],
+     "size": [
+      0.4,
+      0.42,
+      0.48
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      },
+      {
+       "d": 0.8,
+       "fill": false,
+       "shape": "rect",
+       "w": 0.8,
+       "x": 0.0,
+       "z": 0.0
+      },
+      {
+       "shape": "line",
+       "x1": -0.45,
+       "x2": 0.45,
+       "z1": 0.48,
+       "z2": 0.48
+      }
+     ],
+     "tags": [
+      "3d printer",
+      "printer",
+      "maker",
+      "filament"
+     ],
+     "variant": {
+      "en": "Enclosed"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "105 new items, 8 items updated.",
+   "source": "official",
+   "thumbnail": "3d_printer",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.makers"
+  },
+  {
+   "categories": {
+    "lamp": 2,
+    "media": 28,
+    "office": 42,
+    "tech": 28
+   },
+   "description": "Desks, office furniture, computers, cameras and other tech, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.office",
+   "items": 100,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Office & tech",
+   "previews": [
+    {
+     "electric": false,
+     "family": "corner_desk",
+     "group": "office",
+     "hole": false,
+     "id": "corner_desk_140x120",
+     "mount": "floor",
+     "name": {
+      "en": "Corner desk 140 × 120 cm, return right"
+     },
+     "parts": [
+      {
+       "color": "wood",
+       "d": 0.5,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0338,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.9662,
+       "z": -0.25
+      },
+      {
+       "color": "wood",
+       "d": 0.5,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.0338,
+       "screen": false,
+       "shape": "box",
+       "w": 0.3571,
+       "x": 0.3214,
+       "y": 0.9662,
+       "z": 0.25
+      },
+      {
+       "color": "metal",
+       "d": 0.0417,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9662,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0357,
+       "x": -0.4786,
+       "y": 0.0,
+       "z": -0.475
+      },
+      {
+       "color": "metal",
+       "d": 0.0417,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9662,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0357,
+       "x": 0.4786,
+       "y": 0.0,
+       "z": -0.475
+      },
+      {
+       "color": "metal",
+       "d": 0.0417,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9662,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0357,
+       "x": 0.4786,
+       "y": 0.0,
+       "z": 0.475
+      },
+      {
+       "color": "metal",
+       "d": 0.0417,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9662,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0357,
+       "x": 0.1643,
+       "y": 0.0,
+       "z": 0.475
+      },
+      {
+       "color": "metal",
+       "d": 0.0417,
+       "edges": false,
+       "fix": "wd",
+       "glow": false,
+       "h": 0.9662,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0357,
+       "x": -0.4786,
+       "y": 0.0,
+       "z": -0.025
+      },
+      {
+       "color": "metal",
+       "d": 0.0167,
+       "edges": false,
+       "fix": "h",
+       "glow": false,
+       "h": 0.1081,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9143,
+       "x": 0.0,
+       "y": 0.8581,
+       "z": -0.4833
+      }
+     ],
+     "room": [
+      "office",
+      "bedroom",
+      "kids",
+      "hobby"
+     ],
+     "size": [
+      1.4,
+      1.2,
+      0.74
+     ],
+     "surface": true,
+     "symbol": [
+      {
+       "d": 0.5,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": -0.25
+      },
+      {
+       "d": 0.5,
+       "fill": false,
+       "shape": "rect",
+       "w": 0.3571,
+       "x": 0.3214,
+       "z": 0.25
+      }
+     ],
+     "tags": [
+      "desk",
+      "workstation",
+      "computer desk",
+      "study desk",
+      "home office",
+      "l-desk",
+      "l-shaped desk",
+      "corner desk",
+      "gaming desk"
+     ],
+     "variant": {
+      "en": "140 × 120 right"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "goxlr",
+     "group": "media",
+     "hole": false,
+     "id": "goxlr",
+     "mount": "surface",
+     "name": {
+      "en": "TC-Helicon GoXLR"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.12,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#111418",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0211,
+       "x": -0.315,
+       "y": 0.98,
+       "z": 0.1
+      },
+      {
+       "color": "metal",
+       "d": 0.07,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": -0.315,
+       "y": 0.98,
+       "z": 0.12
+      },
+      {
+       "color": "#111418",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0211,
+       "x": -0.105,
+       "y": 0.98,
+       "z": 0.1
+      },
+      {
+       "color": "metal",
+       "d": 0.07,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": -0.105,
+       "y": 0.98,
+       "z": 0.12
+      },
+      {
+       "color": "#111418",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0211,
+       "x": 0.105,
+       "y": 0.98,
+       "z": 0.1
+      },
+      {
+       "color": "metal",
+       "d": 0.07,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": 0.105,
+       "y": 0.98,
+       "z": 0.12
+      },
+      {
+       "color": "#111418",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0211,
+       "x": 0.315,
+       "y": 0.98,
+       "z": 0.1
+      },
+      {
+       "color": "metal",
+       "d": 0.07,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "box",
+       "w": 0.05,
+       "x": 0.315,
+       "y": 0.98,
+       "z": 0.12
+      },
+      {
+       "color": "metal",
+       "d": 0.1724,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1053,
+       "x": -0.315,
+       "y": 0.98,
+       "z": -0.3
+      },
+      {
+       "color": "metal",
+       "d": 0.1724,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1053,
+       "x": -0.105,
+       "y": 0.98,
+       "z": -0.3
+      },
+      {
+       "color": "metal",
+       "d": 0.1724,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1053,
+       "x": 0.105,
+       "y": 0.98,
+       "z": -0.3
+      },
+      {
+       "color": "metal",
+       "d": 0.1724,
+       "edges": false,
+       "glow": false,
+       "h": 0.02,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1053,
+       "x": 0.315,
+       "y": 0.98,
+       "z": -0.3
+      }
+     ],
+     "room": [
+      "office",
+      "hobby",
+      "living",
+      "bedroom"
+     ],
+     "size": [
+      0.285,
+      0.174,
+      0.082
+     ],
+     "surface": false,
+     "tags": [
+      "goxlr",
+      "tc-helicon",
+      "tc helicon",
+      "broadcast mixer",
+      "mixer",
+      "streaming",
+      "audio"
+     ],
+     "variant": {
+      "en": "GoXLR"
+     },
+     "vehicle": false,
+     "wall_y": 1.0,
+     "watts": 5
+    },
+    {
+     "electric": true,
+     "family": "controller_dock",
+     "group": "tech",
+     "hole": false,
+     "id": "controller_charging_dock",
+     "mount": "surface",
+     "name": {
+      "en": "Controller charging dock"
+     },
+     "parts": [
+      {
+       "color": "#1c1d20",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.3,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#2b2d31",
+       "d": 0.5,
+       "edges": false,
+       "glow": false,
+       "h": 0.6,
+       "screen": false,
+       "shape": "box",
+       "w": 0.3182,
+       "x": -0.22,
+       "y": 0.3,
+       "z": 0.0
+      },
+      {
+       "color": "#2b2d31",
+       "d": 0.5,
+       "edges": false,
+       "glow": false,
+       "h": 0.6,
+       "screen": false,
+       "shape": "box",
+       "w": 0.3182,
+       "x": 0.22,
+       "y": 0.3,
+       "z": 0.0
+      },
+      {
+       "color": "#4aa3ff",
+       "d": 0.03,
+       "edges": "faint",
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.2273,
+       "x": -0.22,
+       "y": 0.5,
+       "z": 0.35
+      },
+      {
+       "color": "#4aa3ff",
+       "d": 0.03,
+       "edges": "faint",
+       "glow": false,
+       "h": 0.04,
+       "screen": false,
+       "shape": "box",
+       "w": 0.2273,
+       "x": 0.22,
+       "y": 0.5,
+       "z": 0.35
+      }
+     ],
+     "room": [
+      "living",
+      "office",
+      "bedroom",
+      "hobby"
+     ],
+     "size": [
+      0.22,
+      0.1,
+      0.08
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "controller charger",
+      "charging dock",
+      "charging station",
+      "gamepad",
+      "gaming",
+      "dualsense",
+      "xbox",
+      "joy-con"
+     ],
+     "variant": {
+      "en": "Dual"
+     },
+     "vehicle": false,
+     "wall_y": 1.0,
+     "watts": 10
+    },
+    {
+     "electric": true,
+     "family": "desk_key_light",
+     "group": "lamp",
+     "hole": false,
+     "id": "desk_key_light",
+     "light": "table",
+     "mount": "surface",
+     "name": {
+      "en": "Desk-clamp key light"
+     },
+     "parts": [
+      {
+       "color": "dark",
+       "d": 0.1091,
+       "edges": false,
+       "glow": false,
+       "h": 0.0889,
+       "screen": false,
+       "shape": "box",
+       "w": 0.25,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.3636
+      },
+      {
+       "color": "metal",
+       "d": 0.0545,
+       "edges": false,
+       "glow": false,
+       "h": 0.7556,
+       "screen": false,
+       "shape": "box",
+       "w": 0.15,
+       "x": 0.0,
+       "y": 0.0889,
+       "z": -0.3636
+      },
+      {
+       "axis": "z",
+       "color": "metal",
+       "d": 0.6364,
+       "edges": false,
+       "glow": false,
+       "h": 0.0444,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1,
+       "x": 0.0,
+       "y": 0.8222,
+       "z": -0.0364
+      },
+      {
+       "color": "white",
+       "d": 0.0545,
+       "edges": false,
+       "glow": false,
+       "h": 0.3333,
+       "round": 0.2,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.6667,
+       "z": 0.3636
+      },
+      {
+       "color": "white",
+       "d": 0.0073,
+       "edges": false,
+       "glow": true,
+       "h": 0.2889,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9,
+       "x": 0.0,
+       "y": 0.6889,
+       "z": 0.3909
+      }
+     ],
+     "room": [
+      "office",
+      "hobby",
+      "living",
+      "bedroom"
+     ],
+     "size": [
+      0.2,
+      0.55,
+      0.45
+     ],
+     "surface": false,
+     "tags": [
+      "key light",
+      "elgato key light",
+      "light bar",
+      "panel light",
+      "video light",
+      "streaming light",
+      "clamp",
+      "streaming",
+      "audio"
+     ],
+     "variant": {
+      "en": "Key light"
+     },
+     "vehicle": false,
+     "wall_y": 1.0,
+     "watts": 12
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "42 new items.",
+   "source": "official",
+   "thumbnail": "corner_desk_140x120",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.office"
+  },
+  {
+   "categories": {
+    "outdoor": 81,
+    "sport": 19,
+    "vehicle": 241
+   },
+   "description": "Garden furniture, outdoor items, sport kit and vehicles, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.outdoor",
+   "items": 341,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Garden & outdoor",
+   "previews": [
+    {
+     "electric": false,
+     "group": "vehicle",
+     "hole": false,
+     "id": "audi_a1",
+     "mount": "floor",
+     "name": {
+      "en": "Audi A1"
+     },
+     "parts": [
+      {
+       "axis": "x",
+       "color": "dark",
+       "d": 0.1588,
+       "edges": false,
+       "glow": false,
+       "h": 0.4466,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1207,
+       "x": -0.4339,
+       "y": 0.0,
+       "z": 0.338
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0985,
+       "edges": false,
+       "glow": false,
+       "h": 0.2769,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.008,
+       "x": -0.496,
+       "y": 0.0849,
+       "z": 0.338
+      },
+      {
+       "axis": "x",
+       "color": "dark",
+       "d": 0.1588,
+       "edges": false,
+       "glow": false,
+       "h": 0.4466,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1207,
+       "x": -0.4339,
+       "y": 0.0,
+       "z": -0.302
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0985,
+       "edges": false,
+       "glow": false,
+       "h": 0.2769,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.008,
+       "x": -0.496,
+       "y": 0.0849,
+       "z": -0.302
+      },
+      {
+       "axis": "x",
+       "color": "dark",
+       "d": 0.1588,
+       "edges": false,
+       "glow": false,
+       "h": 0.4466,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1207,
+       "x": 0.4339,
+       "y": 0.0,
+       "z": 0.338
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0985,
+       "edges": false,
+       "glow": false,
+       "h": 0.2769,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.008,
+       "x": 0.496,
+       "y": 0.0849,
+       "z": 0.338
+      },
+      {
+       "axis": "x",
+       "color": "dark",
+       "d": 0.1588,
+       "edges": false,
+       "glow": false,
+       "h": 0.4466,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1207,
+       "x": 0.4339,
+       "y": 0.0,
+       "z": -0.302
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0985,
+       "edges": false,
+       "glow": false,
+       "h": 0.2769,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.008,
+       "x": 0.496,
+       "y": 0.0849,
+       "z": -0.302
+      },
+      {
+       "color": "paint",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.4623,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.96,
+       "x": 0.0,
+       "y": 0.0977,
+       "z": 0.0
+      },
+      {
+       "color": "glass",
+       "d": 0.58,
+       "edges": false,
+       "glow": false,
+       "h": 0.4086,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.32,
+       "tw": 0.7104,
+       "tx": 0.0,
+       "tz": -0.14,
+       "w": 0.864,
+       "x": 0.0,
+       "y": 0.56,
+       "z": -0.11
+      },
+      {
+       "color": "paint",
+       "d": 0.3299,
+       "edges": false,
+       "glow": false,
+       "h": 0.0314,
+       "screen": false,
+       "shape": "box",
+       "w": 0.7296,
+       "x": 0.0,
+       "y": 0.9686,
+       "z": -0.14
+      },
+      {
+       "color": "paint",
+       "d": 0.0124,
+       "edges": false,
+       "glow": false,
+       "h": 0.4086,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0124,
+       "tw": 0.0144,
+       "tx": -0.3506,
+       "tz": -0.125,
+       "w": 0.0144,
+       "x": -0.4274,
+       "y": 0.56,
+       "z": -0.125
+      },
+      {
+       "color": "paint",
+       "d": 0.0124,
+       "edges": false,
+       "glow": false,
+       "h": 0.4086,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0124,
+       "tw": 0.0144,
+       "tx": 0.3506,
+       "tz": -0.125,
+       "w": 0.0144,
+       "x": 0.4274,
+       "y": 0.56,
+       "z": -0.125
+      },
+      {
+       "color": "paint",
+       "d": 0.35,
+       "edges": false,
+       "glow": false,
+       "h": 0.0809,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.26,
+       "tw": 0.9024,
+       "tx": 0.0,
+       "tz": 0.31,
+       "w": 0.9024,
+       "x": 0.0,
+       "y": 0.546,
+       "z": 0.325
+      },
+      {
+       "color": "paint",
+       "d": 0.12,
+       "edges": false,
+       "glow": false,
+       "h": 0.05,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.09,
+       "tw": 0.9024,
+       "tx": 0.0,
+       "tz": -0.425,
+       "w": 0.9024,
+       "x": 0.0,
+       "y": 0.546,
+       "z": -0.44
+      },
+      {
+       "color": "#fff3cf",
+       "d": 0.0099,
+       "edges": false,
+       "glow": false,
+       "h": 0.0558,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1494,
+       "x": -0.33,
+       "y": 0.4763,
+       "z": 0.495
+      },
+      {
+       "color": "#b3141b",
+       "d": 0.0099,
+       "edges": false,
+       "glow": false,
+       "h": 0.0558,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1379,
+       "x": -0.36,
+       "y": 0.4553,
+       "z": -0.495
+      },
+      {
+       "color": "paint",
+       "d": 0.0298,
+       "edges": false,
+       "glow": false,
+       "h": 0.0558,
+       "screen": false,
+       "shape": "box",
+       "w": 0.046,
+       "x": -0.4828,
+       "y": 0.5809,
+       "z": 0.19
+      },
+      {
+       "color": "#fff3cf",
+       "d": 0.0099,
+       "edges": false,
+       "glow": false,
+       "h": 0.0558,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1494,
+       "x": 0.33,
+       "y": 0.4763,
+       "z": 0.495
+      },
+      {
+       "color": "#b3141b",
+       "d": 0.0099,
+       "edges": false,
+       "glow": false,
+       "h": 0.0558,
+       "screen": false,
+       "shape": "box",
+       "w": 0.1379,
+       "x": 0.36,
+       "y": 0.4553,
+       "z": -0.495
+      },
+      {
+       "color": "paint",
+       "d": 0.0298,
+       "edges": false,
+       "glow": false,
+       "h": 0.0558,
+       "screen": false,
+       "shape": "box",
+       "w": 0.046,
+       "x": 0.4828,
+       "y": 0.5809,
+       "z": 0.19
+      },
+      {
+       "color": "dark",
+       "d": 0.0347,
+       "edges": false,
+       "glow": false,
+       "h": 0.1117,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9024,
+       "x": 0.0,
+       "y": 0.0977,
+       "z": 0.4826
+      },
+      {
+       "color": "dark",
+       "d": 0.0347,
+       "edges": false,
+       "glow": false,
+       "h": 0.1117,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9024,
+       "x": 0.0,
+       "y": 0.0977,
+       "z": -0.4826
+      }
+     ],
+     "room": [
+      "garage",
+      "garden"
+     ],
+     "size": [
+      1.74,
+      4.029,
+      1.433
+     ],
+     "surface": false,
+     "tags": [
+      "audi",
+      "a1",
+      "hatchback",
+      "parking",
+      "driveway"
+     ],
+     "vehicle": true,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bbq",
+     "group": "outdoor",
+     "hole": false,
+     "id": "bbq_barrel",
+     "mount": "floor",
+     "name": {
+      "en": "Barrel barbecue"
+     },
+     "parts": [
+      {
+       "axis": "x",
+       "color": "#25262a",
+       "d": 0.6176,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.9412,
+       "x": 0.0,
+       "y": 0.5143,
+       "z": 0.0221
+      },
+      {
+       "color": "#4a4d52",
+       "d": 0.0176,
+       "edges": false,
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9412,
+       "x": 0.0,
+       "y": 0.7238,
+       "z": 0.3456
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0294,
+       "edges": false,
+       "glow": false,
+       "h": 0.019,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.5882,
+       "x": 0.0,
+       "y": 0.8095,
+       "z": 0.3603
+      },
+      {
+       "color": "#25262a",
+       "d": 0.1471,
+       "edges": false,
+       "glow": false,
+       "h": 0.1429,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1176,
+       "x": -0.3529,
+       "y": 0.8571,
+       "z": 0.0221
+      },
+      {
+       "color": "#25262a",
+       "d": 0.1912,
+       "edges": false,
+       "glow": false,
+       "h": 0.019,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.1529,
+       "x": -0.3529,
+       "y": 0.981,
+       "z": 0.0221
+      },
+      {
+       "axis": "x",
+       "color": "metal",
+       "d": 0.0441,
+       "edges": false,
+       "glow": false,
+       "h": 0.0286,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.9882,
+       "x": 0.0,
+       "y": 0.5,
+       "z": 0.0221
+      },
+      {
+       "color": "wood",
+       "d": 0.1765,
+       "edges": false,
+       "glow": false,
+       "h": 0.0238,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9647,
+       "x": 0.0,
+       "y": 0.4952,
+       "z": 0.4044
+      },
+      {
+       "color": "#25262a",
+       "d": 0.0441,
+       "edges": false,
+       "glow": false,
+       "h": 0.5238,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0441,
+       "tw": 0.0353,
+       "tx": -0.4,
+       "tz": 0.0221,
+       "w": 0.0353,
+       "x": -0.4,
+       "y": 0.0,
+       "z": 0.1985
+      },
+      {
+       "color": "#25262a",
+       "d": 0.0441,
+       "edges": false,
+       "glow": false,
+       "h": 0.5238,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0441,
+       "tw": 0.0353,
+       "tx": -0.4,
+       "tz": 0.0221,
+       "w": 0.0353,
+       "x": -0.4,
+       "y": 0.0,
+       "z": -0.1544
+      },
+      {
+       "color": "#25262a",
+       "d": 0.0441,
+       "edges": false,
+       "glow": false,
+       "h": 0.5238,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0441,
+       "tw": 0.0353,
+       "tx": 0.4,
+       "tz": 0.0221,
+       "w": 0.0353,
+       "x": 0.4,
+       "y": 0.0,
+       "z": 0.1985
+      },
+      {
+       "color": "#25262a",
+       "d": 0.0441,
+       "edges": false,
+       "glow": false,
+       "h": 0.5238,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0441,
+       "tw": 0.0353,
+       "tx": 0.4,
+       "tz": 0.0221,
+       "w": 0.0353,
+       "x": 0.4,
+       "y": 0.0,
+       "z": -0.1544
+      },
+      {
+       "axis": "x",
+       "color": "#25262a",
+       "d": 0.2941,
+       "edges": false,
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0353,
+       "x": 0.3529,
+       "y": 0.0,
+       "z": -0.3456
+      },
+      {
+       "axis": "x",
+       "color": "#25262a",
+       "d": 0.2941,
+       "edges": false,
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0353,
+       "x": -0.3529,
+       "y": 0.0,
+       "z": -0.3456
+      }
+     ],
+     "room": [
+      "garden"
+     ],
+     "size": [
+      0.85,
+      0.68,
+      1.05
+     ],
+     "surface": false,
+     "tags": [
+      "bbq",
+      "barbecue",
+      "charcoal",
+      "drum",
+      "smoker",
+      "grill",
+      "barrel",
+      "summer",
+      "offset smoker"
+     ],
+     "variant": {
+      "en": "Charcoal barrel with chimney"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bike_wall_rack",
+     "group": "sport",
+     "hole": false,
+     "id": "bike_wall_rack_horizontal",
+     "mount": "wall",
+     "name": {
+      "en": "Bike on a wall rack"
+     },
+     "parts": [
+      {
+       "axis": "z",
+       "color": "#25262a",
+       "d": 0.0656,
+       "edges": false,
+       "glow": false,
+       "h": 0.6476,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.3908,
+       "x": -0.3017,
+       "y": 0.0,
+       "z": 0.0451
+      },
+      {
+       "axis": "z",
+       "color": "#8a8d92",
+       "d": 0.082,
+       "edges": false,
+       "glow": false,
+       "h": 0.5714,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.3448,
+       "x": -0.3017,
+       "y": 0.0381,
+       "z": 0.0451
+      },
+      {
+       "axis": "z",
+       "color": "#25262a",
+       "d": 0.0656,
+       "edges": false,
+       "glow": false,
+       "h": 0.6476,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.3908,
+       "x": 0.3017,
+       "y": 0.0,
+       "z": 0.0451
+      },
+      {
+       "axis": "z",
+       "color": "#8a8d92",
+       "d": 0.082,
+       "edges": false,
+       "glow": false,
+       "h": 0.5714,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.3448,
+       "x": 0.3017,
+       "y": 0.0381,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.6,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0184,
+       "tx": -0.1121,
+       "tz": 0.0451,
+       "w": 0.0184,
+       "x": -0.0431,
+       "y": 0.2762,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.0571,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0172,
+       "tx": -0.1121,
+       "tz": 0.0451,
+       "w": 0.0172,
+       "x": 0.2328,
+       "y": 0.819,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.5429,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.023,
+       "tx": 0.2328,
+       "tz": 0.0451,
+       "w": 0.023,
+       "x": -0.0431,
+       "y": 0.2762,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.0476,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0126,
+       "tx": -0.3017,
+       "tz": 0.0451,
+       "w": 0.0126,
+       "x": -0.0431,
+       "y": 0.2762,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.5524,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0103,
+       "tx": -0.1121,
+       "tz": 0.0451,
+       "w": 0.0103,
+       "x": -0.3017,
+       "y": 0.3238,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.4952,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0149,
+       "tx": 0.2328,
+       "tz": 0.0451,
+       "w": 0.0149,
+       "x": 0.3017,
+       "y": 0.3238,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.1524,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0149,
+       "tx": 0.181,
+       "tz": 0.0451,
+       "w": 0.0149,
+       "x": 0.2155,
+       "y": 0.8,
+       "z": 0.0451
+      },
+      {
+       "color": "#2f5d8a",
+       "d": 0.0492,
+       "edges": false,
+       "glow": false,
+       "h": 0.0762,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.0492,
+       "tw": 0.0149,
+       "tx": -0.1293,
+       "tz": 0.0451,
+       "w": 0.0149,
+       "x": -0.1121,
+       "y": 0.8762,
+       "z": 0.0451
+      },
+      {
+       "color": "#25262a",
+       "d": 0.1967,
+       "edges": false,
+       "glow": false,
+       "h": 0.0476,
+       "round": 0.4,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1494,
+       "x": -0.1351,
+       "y": 0.9524,
+       "z": 0.0451
+      },
+      {
+       "axis": "z",
+       "color": "#25262a",
+       "d": 0.9016,
+       "edges": false,
+       "glow": false,
+       "h": 0.0238,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.0144,
+       "x": 0.181,
+       "y": 0.9405,
+       "z": 0.0451
+      },
+      {
+       "color": "#2c2f33",
+       "d": 0.0984,
+       "edges": false,
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0287,
+       "x": -0.0431,
+       "y": 0.7429,
+       "z": -0.4467
+      },
+      {
+       "color": "#2c2f33",
+       "d": 0.0984,
+       "edges": false,
+       "glow": false,
+       "h": 0.1905,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0287,
+       "x": 0.3017,
+       "y": 0.7429,
+       "z": -0.4467
+      },
+      {
+       "color": "#2c2f33",
+       "d": 0.4918,
+       "edges": false,
+       "glow": false,
+       "h": 0.0286,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0287,
+       "x": -0.0431,
+       "y": 0.8381,
+       "z": -0.2008
+      },
+      {
+       "color": "#2c2f33",
+       "d": 0.4918,
+       "edges": false,
+       "glow": false,
+       "h": 0.0286,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0287,
+       "x": 0.3017,
+       "y": 0.8381,
+       "z": -0.2008
+      }
+     ],
+     "room": [
+      "garage",
+      "hall",
+      "utility",
+      "hobby",
+      "loft"
+     ],
+     "size": [
+      1.74,
+      0.61,
+      1.05
+     ],
+     "surface": false,
+     "tags": [
+      "bike rack",
+      "bicycle storage",
+      "wall mount",
+      "bike hook",
+      "cycle storage",
+      "bicycle",
+      "hanging bike",
+      "garage",
+      "horizontal"
+     ],
+     "variant": {
+      "en": "Horizontal, bike parallel to the wall"
+     },
+     "vehicle": false,
+     "wall_y": 1.3
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 2,
+   "release_note": "225 new items, 6 items updated.",
+   "source": "official",
+   "thumbnail": "audi_a1",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor"
+  },
+  {
+   "categories": {
+    "lamp": 36,
+    "outdoor": 226
+   },
+   "description": "Garden fences, walls and gates, kerbs, roads and pavements, driveways and street lights in sizes and colours, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.outdoor-hardscape",
+   "items": 262,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Garden hardscape & street",
+   "previews": [
+    {
+     "electric": false,
+     "family": "drain_gully",
+     "group": "outdoor",
+     "hole": false,
+     "id": "drain_gully_grid",
+     "mount": "floor",
+     "name": {
+      "en": "Drain gully grid"
+     },
+     "parts": [
+      {
+       "color": "#2c2e30",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#5a5d60",
+       "d": 0.8667,
+       "edges": false,
+       "glow": false,
+       "h": 0.1333,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": -0.3333,
+       "y": 0.8667,
+       "z": 0.0
+      },
+      {
+       "color": "#5a5d60",
+       "d": 0.8667,
+       "edges": false,
+       "glow": false,
+       "h": 0.1333,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": -0.1667,
+       "y": 0.8667,
+       "z": 0.0
+      },
+      {
+       "color": "#5a5d60",
+       "d": 0.8667,
+       "edges": false,
+       "glow": false,
+       "h": 0.1333,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": -0.0,
+       "y": 0.8667,
+       "z": 0.0
+      },
+      {
+       "color": "#5a5d60",
+       "d": 0.8667,
+       "edges": false,
+       "glow": false,
+       "h": 0.1333,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": 0.1667,
+       "y": 0.8667,
+       "z": 0.0
+      },
+      {
+       "color": "#5a5d60",
+       "d": 0.8667,
+       "edges": false,
+       "glow": false,
+       "h": 0.1333,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": 0.3333,
+       "y": 0.8667,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "garden"
+     ],
+     "size": [
+      0.45,
+      0.3,
+      0.03
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": true,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "drain",
+      "gully",
+      "grating",
+      "road gully",
+      "drainage"
+     ],
+     "variant": {
+      "en": "45 × 30 cm"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": true,
+     "family": "bollard_light_black",
+     "group": "lamp",
+     "hole": false,
+     "id": "bollard_light_black_100",
+     "light": "bollard",
+     "mount": "floor",
+     "name": {
+      "en": "Bollard light, black, 1 m"
+     },
+     "parts": [
+      {
+       "color": "#26272a",
+       "d": 0.875,
+       "edges": false,
+       "glow": false,
+       "h": 0.78,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.875,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#fff1c9",
+       "d": 0.9062,
+       "edges": false,
+       "glow": true,
+       "h": 0.12,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.9062,
+       "x": 0.0,
+       "y": 0.78,
+       "z": 0.0
+      },
+      {
+       "color": "#222326",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 0.1,
+       "profile": [
+        [
+         1.0,
+         0.0
+        ],
+        [
+         1.0,
+         0.4
+        ],
+        [
+         0.6,
+         0.9
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.9,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "garden"
+     ],
+     "size": [
+      0.16,
+      0.16,
+      1.0
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "r": 0.5,
+       "shape": "circle",
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "bollard",
+      "bollard light",
+      "path light",
+      "post light",
+      "garden light",
+      "lighting",
+      "driveway"
+     ],
+     "variant": {
+      "en": "1 m"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 1,
+   "source": "official",
+   "thumbnail": "drain_gully_grid",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor-hardscape"
+  },
+  {
+   "categories": {
+    "outdoor": 75,
+    "plant": 399
+   },
+   "description": "Grass in several lengths, soils and mulches, raised beds and 50 garden plants in sizes and colours, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.outdoor-plants",
+   "items": 474,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "Garden plants & ground",
+   "previews": [
+    {
+     "electric": false,
+     "family": "agapanthus_blue",
+     "group": "plant",
+     "hole": false,
+     "id": "agapanthus_blue_large",
+     "mount": "floor",
+     "name": {
+      "en": "Agapanthus, blue, large"
+     },
+     "parts": [
+      {
+       "color": "#3f7d3a",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.02,
+       "tw": 0.02,
+       "tx": 0.1721,
+       "tz": 0.1449,
+       "w": 0.08,
+       "x": 0.0956,
+       "y": 0.0,
+       "z": 0.0805
+      },
+      {
+       "color": "#5f8a3c",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.6733,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": 0.1912,
+       "y": 0.0,
+       "z": 0.1611
+      },
+      {
+       "color": "#4a63d6",
+       "d": 0.306,
+       "edges": false,
+       "glow": false,
+       "h": 0.2118,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.306,
+       "x": 0.1912,
+       "y": 0.5674,
+       "z": 0.1611
+      },
+      {
+       "color": "#3f7d3a",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.02,
+       "tw": 0.02,
+       "tx": -0.0395,
+       "tz": 0.2215,
+       "w": 0.08,
+       "x": -0.0219,
+       "y": 0.0,
+       "z": 0.1231
+      },
+      {
+       "color": "#5f8a3c",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.6908,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": -0.0439,
+       "y": 0.0,
+       "z": 0.2461
+      },
+      {
+       "color": "#4a63d6",
+       "d": 0.306,
+       "edges": false,
+       "glow": false,
+       "h": 0.2118,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.306,
+       "x": -0.0439,
+       "y": 0.5849,
+       "z": 0.2461
+      },
+      {
+       "color": "#3f7d3a",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.02,
+       "tw": 0.02,
+       "tx": -0.2116,
+       "tz": 0.0766,
+       "w": 0.08,
+       "x": -0.1175,
+       "y": 0.0,
+       "z": 0.0425
+      },
+      {
+       "color": "#5f8a3c",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.6594,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": -0.2351,
+       "y": 0.0,
+       "z": 0.0851
+      },
+      {
+       "color": "#4a63d6",
+       "d": 0.306,
+       "edges": false,
+       "glow": false,
+       "h": 0.2118,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.306,
+       "x": -0.2351,
+       "y": 0.5535,
+       "z": 0.0851
+      },
+      {
+       "color": "#3f7d3a",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.02,
+       "tw": 0.02,
+       "tx": -0.1721,
+       "tz": -0.1449,
+       "w": 0.08,
+       "x": -0.0956,
+       "y": 0.0,
+       "z": -0.0805
+      },
+      {
+       "color": "#5f8a3c",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.7556,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": -0.1912,
+       "y": 0.0,
+       "z": -0.1611
+      },
+      {
+       "color": "#4a63d6",
+       "d": 0.306,
+       "edges": false,
+       "glow": false,
+       "h": 0.2118,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.306,
+       "x": -0.1912,
+       "y": 0.6497,
+       "z": -0.1611
+      },
+      {
+       "color": "#3f7d3a",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.02,
+       "tw": 0.02,
+       "tx": 0.0395,
+       "tz": -0.2215,
+       "w": 0.08,
+       "x": 0.0219,
+       "y": 0.0,
+       "z": -0.1231
+      },
+      {
+       "color": "#5f8a3c",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.6649,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": 0.0439,
+       "y": 0.0,
+       "z": -0.2461
+      },
+      {
+       "color": "#4a63d6",
+       "d": 0.306,
+       "edges": false,
+       "glow": false,
+       "h": 0.2118,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.306,
+       "x": 0.0439,
+       "y": 0.559,
+       "z": -0.2461
+      },
+      {
+       "color": "#3f7d3a",
+       "d": 0.04,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "loft",
+       "td": 0.02,
+       "tw": 0.02,
+       "tx": 0.2116,
+       "tz": -0.0766,
+       "w": 0.08,
+       "x": 0.1175,
+       "y": 0.0,
+       "z": -0.0425
+      },
+      {
+       "color": "#5f8a3c",
+       "d": 0.03,
+       "edges": false,
+       "glow": false,
+       "h": 0.7763,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.03,
+       "x": 0.2351,
+       "y": 0.0,
+       "z": -0.0851
+      },
+      {
+       "color": "#4a63d6",
+       "d": 0.306,
+       "edges": false,
+       "glow": false,
+       "h": 0.2118,
+       "screen": false,
+       "shape": "sphere",
+       "w": 0.306,
+       "x": 0.2351,
+       "y": 0.6704,
+       "z": -0.0851
+      }
+     ],
+     "room": [
+      "garden"
+     ],
+     "size": [
+      0.9,
+      0.9,
+      1.3
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "r": 0.5,
+       "shape": "circle",
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "agapanthus",
+      "flower",
+      "perennial",
+      "african lily",
+      "blue"
+     ],
+     "variant": {
+      "en": "Large (0.9 × 1.3 m)"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "bark_mulch",
+     "group": "outdoor",
+     "hole": false,
+     "id": "bark_mulch_1x1",
+     "mount": "floor",
+     "name": {
+      "en": "Bark mulch, 1 × 1 m"
+     },
+     "parts": [
+      {
+       "color": "#6b4428",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "top": "#7d5230",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "color": "#573520",
+       "d": 0.0783,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 128.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1175,
+       "x": 0.3072,
+       "y": 0.7,
+       "z": -0.3008
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0596,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 45.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0895,
+       "x": 0.0318,
+       "y": 0.7,
+       "z": -0.012
+      },
+      {
+       "color": "#573520",
+       "d": 0.0842,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 41.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1262,
+       "x": -0.3506,
+       "y": 0.7,
+       "z": -0.4549
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0476,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 105.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0714,
+       "x": -0.2277,
+       "y": 0.7,
+       "z": 0.1393
+      },
+      {
+       "color": "#573520",
+       "d": 0.0461,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 61.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0692,
+       "x": 0.421,
+       "y": 0.7,
+       "z": 0.1379
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0552,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 104.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0828,
+       "x": 0.1504,
+       "y": 0.7,
+       "z": 0.4212
+      },
+      {
+       "color": "#573520",
+       "d": 0.067,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 19.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1005,
+       "x": 0.232,
+       "y": 0.7,
+       "z": 0.0544
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0477,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 166.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0716,
+       "x": 0.2773,
+       "y": 0.7,
+       "z": 0.3243
+      },
+      {
+       "color": "#573520",
+       "d": 0.0732,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 153.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1099,
+       "x": 0.4254,
+       "y": 0.7,
+       "z": -0.3804
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0502,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 134.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0753,
+       "x": -0.3324,
+       "y": 0.7,
+       "z": 0.0192
+      },
+      {
+       "color": "#573520",
+       "d": 0.0864,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 66.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1297,
+       "x": 0.0534,
+       "y": 0.7,
+       "z": 0.3696
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0629,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 107.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0944,
+       "x": 0.02,
+       "y": 0.7,
+       "z": 0.0702
+      },
+      {
+       "color": "#573520",
+       "d": 0.0857,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 145.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1286,
+       "x": 0.3673,
+       "y": 0.7,
+       "z": 0.4105
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0573,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 22.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0859,
+       "x": -0.3272,
+       "y": 0.7,
+       "z": 0.1619
+      },
+      {
+       "color": "#573520",
+       "d": 0.0714,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 158.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1071,
+       "x": 0.172,
+       "y": 0.7,
+       "z": 0.2064
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0867,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 43.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.13,
+       "x": 0.2537,
+       "y": 0.7,
+       "z": -0.2387
+      },
+      {
+       "color": "#573520",
+       "d": 0.0593,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 124.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.089,
+       "x": 0.1945,
+       "y": 0.7,
+       "z": 0.2014
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0754,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 135.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1131,
+       "x": -0.0916,
+       "y": 0.7,
+       "z": 0.2951
+      },
+      {
+       "color": "#573520",
+       "d": 0.0557,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 3.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0835,
+       "x": -0.413,
+       "y": 0.7,
+       "z": -0.2559
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0763,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 132.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1144,
+       "x": 0.0416,
+       "y": 0.7,
+       "z": 0.4071
+      },
+      {
+       "color": "#573520",
+       "d": 0.0792,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 173.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.1189,
+       "x": 0.1273,
+       "y": 0.7,
+       "z": -0.3535
+      },
+      {
+       "color": "#7d5230",
+       "d": 0.0499,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "rot": 117.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 0.0748,
+       "x": -0.3049,
+       "y": 0.7,
+       "z": 0.2635
+      }
+     ],
+     "room": [
+      "garden"
+     ],
+     "size": [
+      1.0,
+      1.0,
+      0.07
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": true,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "mulch",
+      "bark",
+      "wood chip",
+      "border"
+     ],
+     "variant": {
+      "en": "1 × 1 m"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 1,
+   "source": "official",
+   "thumbnail": "agapanthus_blue_large",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor-plants"
+  },
+  {
+   "categories": {
+    "network": 108,
+    "tech": 86
+   },
+   "description": "Ubiquiti UniFi gear: Protect cameras, doorbells and sensors, Access readers and hubs, Network access points, and the rack-mounted gateways, switches, NVRs, storage and power. Modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+   "id": "theovencook.unifi",
+   "items": 194,
+   "kind": "furniture",
+   "licence": "MIT",
+   "name": "UniFi",
+   "previews": [
+    {
+     "electric": true,
+     "family": "rack_switch",
+     "group": "network",
+     "hole": false,
+     "id": "rack_unifi_eav_fiber",
+     "mount": "surface",
+     "name": {
+      "en": "UniFi EAV Fiber"
+     },
+     "parts": [
+      {
+       "color": "#cfd3d8",
+       "d": 0.9979,
+       "edges": "faint",
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.9167,
+       "x": 0.0,
+       "y": 0.0,
+       "z": -0.001
+      },
+      {
+       "color": "#cfd3d8",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0414,
+       "x": -0.4793,
+       "y": 0.0,
+       "z": 0.4958
+      },
+      {
+       "color": "#cfd3d8",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0414,
+       "x": 0.4793,
+       "y": 0.0,
+       "z": 0.4958
+      },
+      {
+       "color": "glass",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.3661,
+       "screen": false,
+       "shape": "box",
+       "w": 0.058,
+       "x": -0.413,
+       "y": 0.3169,
+       "z": 0.4958
+      },
+      {
+       "color": "metal",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.2059,
+       "screen": false,
+       "shape": "box",
+       "w": 0.143,
+       "x": -0.2959,
+       "y": 0.2597,
+       "z": 0.4958
+      },
+      {
+       "color": "metal",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.2059,
+       "screen": false,
+       "shape": "box",
+       "w": 0.143,
+       "x": -0.1426,
+       "y": 0.2597,
+       "z": 0.4958
+      },
+      {
+       "color": "metal",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.2059,
+       "screen": false,
+       "shape": "box",
+       "w": 0.143,
+       "x": -0.2959,
+       "y": 0.5343,
+       "z": 0.4958
+      },
+      {
+       "color": "metal",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.2059,
+       "screen": false,
+       "shape": "box",
+       "w": 0.143,
+       "x": -0.1426,
+       "y": 0.5343,
+       "z": 0.4958
+      },
+      {
+       "color": "metal",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.2746,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0684,
+       "x": -0.0203,
+       "y": 0.3627,
+       "z": 0.4958
+      },
+      {
+       "color": "accent",
+       "d": 0.0083,
+       "edges": false,
+       "glow": false,
+       "h": 0.0915,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0083,
+       "x": 0.4337,
+       "y": 0.8169,
+       "z": 0.4958
+      }
+     ],
+     "rack": {
+      "u": 1
+     },
+     "room": [
+      "office",
+      "utility",
+      "loft",
+      "hall",
+      "garage"
+     ],
+     "size": [
+      0.4826,
+      0.48,
+      0.0437
+     ],
+     "surface": false,
+     "symbol": [
+      {
+       "d": 1.0,
+       "fill": false,
+       "shape": "rect",
+       "w": 1.0,
+       "x": 0.0,
+       "z": 0.0
+      }
+     ],
+     "tags": [
+      "switch",
+      "network switch",
+      "unifi",
+      "ubiquiti",
+      "1u",
+      "rack mount",
+      "19 inch",
+      "rack",
+      "enterprise a/v",
+      "sfp+"
+     ],
+     "variant": {
+      "en": "UniFi Enterprise A/V Fiber"
+     },
+     "vehicle": false,
+     "wall_y": 1.0,
+     "watts": 150
+    },
+    {
+     "electric": true,
+     "group": "tech",
+     "hole": false,
+     "id": "unifi_access_button",
+     "mount": "wall",
+     "name": {
+      "en": "UniFi Access Button"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.2,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      {
+       "axis": "z",
+       "color": "#9aa3b0",
+       "d": 0.4,
+       "edges": false,
+       "glow": false,
+       "h": 0.5,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.5,
+       "x": 0.0,
+       "y": 0.25,
+       "z": 0.5
+      },
+      {
+       "axis": "z",
+       "color": "#3a8dde",
+       "d": 0.45,
+       "edges": false,
+       "glow": false,
+       "h": 0.28,
+       "screen": false,
+       "shape": "cyl",
+       "w": 0.28,
+       "x": 0.0,
+       "y": 0.36,
+       "z": 0.5
+      }
+     ],
+     "size": [
+      0.08,
+      0.02,
+      0.08
+     ],
+     "surface": false,
+     "tags": [
+      "unifi",
+      "ubiquiti",
+      "access",
+      "door access",
+      "access button",
+      "ua-button",
+      "request to exit",
+      "rex",
+      "exit button"
+     ],
+     "vehicle": false,
+     "wall_y": 1.1
+    }
+   ],
+   "publisher": "theovencook",
+   "release": 1,
+   "source": "official",
+   "thumbnail": "rack_unifi_eav_fiber",
+   "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.unifi"
+  }
+ ],
+ "version": 1
+}

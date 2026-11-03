@@ -122,9 +122,17 @@ Ubiquiti UniFi gear: Protect cameras, doorbells and sensors, Access readers and 
 
 ## Install a pack
 
-In Home 3D open **Extensions**, choose **Install from GitHub**, paste a pack's install URL and confirm. Home
+In Home 3D's editor open the Library's **Browse packs** tab, pick a pack and choose **Install**. It lists our
+packs and community packs (`index.json`).
+
+Or open **Extensions**, choose **Install from GitHub**, paste a pack's install URL and confirm. Home
 Assistant downloads and checks the pack; nothing else is fetched. Pasting the repository URL
 (`https://github.com/theovencook/home-3d-packs`) lists the packs and asks for one folder URL.
+
+## Get your pack listed
+
+Made a pack? Add it to `community.json` by pull request and it shows under Browse packs. CI checks every
+listed pack: MIT licence, Home 3D's pack check, a unique id, data only. See `CONTRIBUTING.md`.
 
 ## Update a pack
 
