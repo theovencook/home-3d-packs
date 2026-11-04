@@ -829,7 +829,7 @@
    "categories": {
     "candle": 9,
     "cushion": 6,
-    "deco": 98,
+    "deco": 99,
     "frame": 18,
     "plant": 33,
     "throw": 4,
@@ -838,7 +838,7 @@
    },
    "description": "Decoration, frames, candles, vases, trays, cushions, throws and plants, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
    "id": "theovencook.decor",
-   "items": 180,
+   "items": 181,
    "kind": "furniture",
    "licence": "MIT",
    "name": "Decor & plants",
@@ -1706,8 +1706,8 @@
     }
    ],
    "publisher": "theovencook",
-   "release": 2,
-   "release_note": "New: trophies (cups, figures, shields, crystal awards, plaques, medals on stands and a podium) in gold, silver and bronze.",
+   "release": 3,
+   "release_note": "A life-size cardboard cutout of a person.",
    "source": "official",
    "thumbnail": "basket_belly",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.decor"
@@ -2219,228 +2219,156 @@
   {
    "categories": {
     "architecture": 34,
-    "household": 40,
-    "pets": 23
+    "household": 41,
+    "pets": 24
    },
    "description": "Household items, architecture (stairs, fireplaces and other building features) and pet gear, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
    "id": "theovencook.household",
-   "items": 97,
+   "items": 99,
    "kind": "furniture",
    "licence": "MIT",
    "name": "Household & building",
    "previews": [
     {
      "electric": false,
-     "family": "broom_mop_rack",
      "group": "household",
      "hole": false,
-     "id": "broom_mop_wall_rack",
-     "mount": "wall",
+     "id": "boot_tray_75",
+     "mount": "floor",
      "name": {
-      "en": "Broom and mop wall rack"
+      "en": "Boot tray, 75 cm"
      },
      "parts": [
       {
-       "color": "metal",
-       "d": 0.18,
-       "edges": false,
-       "glow": false,
-       "h": 0.0267,
-       "screen": false,
-       "shape": "box",
-       "w": 1.0,
-       "x": 0.0,
-       "y": 0.6,
-       "z": -0.4
-      },
-      {
-       "color": "metal",
-       "d": 0.18,
-       "edges": false,
-       "glow": false,
-       "h": 0.0267,
-       "screen": false,
-       "shape": "box",
-       "w": 1.0,
-       "x": 0.0,
-       "y": 0.2333,
-       "z": -0.4
-      },
-      {
        "color": "dark",
-       "d": 0.3,
-       "edges": false,
-       "glow": false,
-       "h": 0.04,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0806,
-       "x": -0.3226,
-       "y": 0.5933,
-       "z": -0.15
-      },
-      {
-       "color": "dark",
-       "d": 0.3,
-       "edges": false,
-       "glow": false,
-       "h": 0.04,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0806,
-       "x": -0.3226,
-       "y": 0.2267,
-       "z": -0.15
-      },
-      {
-       "color": "dark",
-       "d": 0.3,
-       "edges": false,
-       "glow": false,
-       "h": 0.04,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0806,
-       "x": 0.0323,
-       "y": 0.5933,
-       "z": -0.15
-      },
-      {
-       "color": "dark",
-       "d": 0.3,
-       "edges": false,
-       "glow": false,
-       "h": 0.04,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0806,
-       "x": 0.0323,
-       "y": 0.2267,
-       "z": -0.15
-      },
-      {
-       "color": "#c4a06e",
-       "d": 0.25,
-       "edges": false,
-       "glow": false,
-       "h": 0.8933,
-       "screen": false,
-       "shape": "cyl",
-       "w": 0.0403,
-       "x": -0.3226,
-       "y": 0.08,
-       "z": -0.15
-      },
-      {
-       "color": "#6a6f77",
-       "d": 0.6,
-       "edges": false,
-       "glow": false,
-       "h": 0.0667,
-       "screen": false,
-       "shape": "box",
-       "w": 0.4194,
-       "x": -0.3226,
-       "y": 0.0,
-       "z": 0.0
-      },
-      {
-       "color": "#2a5ea8",
-       "d": 0.45,
-       "edges": false,
-       "glow": false,
-       "h": 0.03,
-       "screen": false,
-       "shape": "box",
-       "w": 0.4194,
-       "x": -0.3226,
-       "y": 0.0667,
-       "z": 0.0
-      },
-      {
-       "color": "#8a8f96",
-       "d": 0.25,
-       "edges": false,
-       "glow": false,
-       "h": 0.96,
-       "screen": false,
-       "shape": "cyl",
-       "w": 0.0403,
-       "x": 0.0323,
-       "y": 0.0,
-       "z": -0.15
-      },
-      {
-       "color": "#f2f0e8",
        "d": 1.0,
        "edges": false,
        "glow": false,
-       "h": 0.0933,
+       "h": 1.0,
+       "round": 0.3,
        "screen": false,
-       "shape": "sphere",
-       "w": 0.2581,
-       "x": 0.0323,
-       "y": 0.9067,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
        "z": 0.0
       },
       {
-       "color": "metal",
-       "d": 0.3,
+       "color": "#2a2c30",
+       "d": 0.8947,
        "edges": false,
        "glow": false,
-       "h": 0.02,
+       "h": 0.1333,
        "screen": false,
        "shape": "box",
-       "w": 0.0968,
-       "x": 0.4032,
-       "y": 0.5467,
-       "z": -0.3
+       "w": 0.9467,
+       "x": 0.0,
+       "y": 0.2,
+       "z": 0.0
       },
       {
-       "color": "#c0262b",
-       "d": 0.4,
+       "color": "dark",
+       "d": 0.7895,
        "edges": false,
        "glow": false,
-       "h": 0.2533,
+       "h": 0.4,
        "screen": false,
-       "shape": "loft",
-       "td": 0.2,
-       "tw": 0.3226,
-       "tx": 0.4032,
-       "tz": -0.3,
-       "w": 0.3226,
-       "x": 0.4032,
-       "y": 0.3067,
-       "z": -0.1
+       "shape": "box",
+       "w": 0.0267,
+       "x": -0.4,
+       "y": 0.2,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7895,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": -0.24,
+       "y": 0.2,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7895,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": -0.08,
+       "y": 0.2,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7895,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": 0.08,
+       "y": 0.2,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7895,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": 0.24,
+       "y": 0.2,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7895,
+       "edges": false,
+       "glow": false,
+       "h": 0.4,
+       "screen": false,
+       "shape": "box",
+       "w": 0.0267,
+       "x": 0.4,
+       "y": 0.2,
+       "z": 0.0
       }
      ],
      "room": [
+      "hall",
       "utility",
       "garage",
-      "kitchen",
-      "hall"
+      "porch"
      ],
      "size": [
-      0.62,
-      0.1,
-      1.5
+      0.75,
+      0.38,
+      0.03
      ],
-     "surface": false,
+     "surface": true,
      "tags": [
-      "broom",
-      "mop",
-      "wall rack",
-      "cleaning",
-      "storage",
-      "tool holder",
-      "dustpan",
-      "spring clips"
+      "boot tray",
+      "shoe tray",
+      "boots",
+      "wellies",
+      "mat",
+      "rubber",
+      "porch",
+      "drip tray"
      ],
-     "variant": {
-      "en": "With broom, mop and dustpan"
-     },
      "vehicle": false,
-     "wall_y": 0.15
+     "wall_y": 1.0
     },
     {
      "electric": false,
@@ -2943,10 +2871,10 @@
     }
    ],
    "publisher": "theovencook",
-   "release": 2,
-   "release_note": "8 new items.",
+   "release": 3,
+   "release_note": "Crinkle cat tunnel and a boot tray.",
    "source": "official",
-   "thumbnail": "broom_mop_wall_rack",
+   "thumbnail": "boot_tray_75",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.household"
   },
   {
@@ -2959,24 +2887,24 @@
     "deco": 56,
     "frame": 15,
     "household": 2,
-    "kids": 33,
+    "kids": 35,
     "kitchen": 26,
     "lamp": 65,
     "media": 15,
     "office": 25,
     "outdoor": 8,
     "plant": 13,
-    "seating": 21,
+    "seating": 22,
     "sofa": 29,
-    "storage": 125,
-    "table": 33,
+    "storage": 126,
+    "table": 35,
     "throw": 3,
     "tray": 2,
     "vase": 4
    },
    "description": "IKEA UK bestsellers in their sizes, modelled for Home 3D from simple shapes. Search by the readable name or the IKEA name. Not made or endorsed by IKEA.",
    "id": "theovencook.ikea-uk",
-   "items": 547,
+   "items": 553,
    "kind": "furniture",
    "licence": "MIT",
    "name": "IKEA UK range",
@@ -3466,58 +3394,6 @@
     },
     {
      "electric": false,
-     "family": "afjall_mattress",
-     "group": "bed",
-     "hole": false,
-     "id": "afjall_mattress_double",
-     "ikea": "ÅFJÄLL",
-     "mount": "floor",
-     "name": {
-      "en": "Foam mattress, Double 135x190"
-     },
-     "parts": [
-      {
-       "color": "white",
-       "d": 1.0,
-       "edges": false,
-       "glow": false,
-       "h": 1.0,
-       "round": 0.3,
-       "screen": false,
-       "shape": "rbox",
-       "w": 1.0,
-       "x": 0.0,
-       "y": 0.0,
-       "z": 0.0
-      }
-     ],
-     "room": [
-      "bedroom",
-      "kids"
-     ],
-     "size": [
-      1.35,
-      1.9,
-      0.12
-     ],
-     "surface": false,
-     "tags": [
-      "mattress",
-      "double",
-      "foam",
-      "medium firm",
-      "firm",
-      "day-bed",
-      "white"
-     ],
-     "variant": {
-      "en": "Double · 135x190"
-     },
-     "vehicle": false,
-     "wall_y": 1.0
-    },
-    {
-     "electric": false,
      "family": "blahaj_soft_toy",
      "group": "kids",
      "hole": false,
@@ -3856,10 +3732,63 @@
      },
      "vehicle": false,
      "wall_y": 1.0
+    },
+    {
+     "electric": false,
+     "family": "afjall_mattress",
+     "group": "bed",
+     "hole": false,
+     "id": "afjall_mattress_double",
+     "ikea": "ÅFJÄLL",
+     "mount": "floor",
+     "name": {
+      "en": "Foam mattress, Double 135x190"
+     },
+     "parts": [
+      {
+       "color": "white",
+       "d": 1.0,
+       "edges": false,
+       "glow": false,
+       "h": 1.0,
+       "round": 0.3,
+       "screen": false,
+       "shape": "rbox",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      }
+     ],
+     "room": [
+      "bedroom",
+      "kids"
+     ],
+     "size": [
+      1.35,
+      1.9,
+      0.12
+     ],
+     "surface": false,
+     "tags": [
+      "mattress",
+      "double",
+      "foam",
+      "medium firm",
+      "firm",
+      "day-bed",
+      "white"
+     ],
+     "variant": {
+      "en": "Double · 135x190"
+     },
+     "vehicle": false,
+     "wall_y": 1.0
     }
    ],
    "publisher": "theovencook",
-   "release": 2,
+   "release": 5,
+   "release_note": "SKRUVBY coffee table 60x60 cm, black-blue; RISHOLMEN rattan wing chair; FJÄLLBO coffee table and shelving unit.",
    "source": "official",
    "thumbnail": "aheim_mirror_door_50x195",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.ikea-uk"
@@ -4078,12 +4007,12 @@
   {
    "categories": {
     "appliance": 86,
-    "bath": 40,
-    "kitchen": 90
+    "bath": 44,
+    "kitchen": 91
    },
    "description": "Kitchen units, appliances and bathroom fittings, modelled for Home 3D from simple shapes. Appliances can be linked to a switch and a power sensor. Ships with the app and works offline.",
    "id": "theovencook.kitchen-bath",
-   "items": 216,
+   "items": 221,
    "kind": "furniture",
    "licence": "MIT",
    "name": "Kitchen & bath",
@@ -4475,8 +4404,8 @@
     }
    ],
    "publisher": "theovencook",
-   "release": 2,
-   "release_note": "New: worktop gear (air fryers, multi-cookers, blenders, boards, knife blocks, bread bins, spice racks) and L-shaped corner sink units.",
+   "release": 3,
+   "release_note": "Pedal bins (5 L bathroom, 30 L kitchen), toilet roll holders (freestanding, wall) and a shower curtain on a straight rail.",
    "source": "official",
    "thumbnail": "banana_stand",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.kitchen-bath"
@@ -4484,7 +4413,7 @@
   {
    "categories": {
     "heating": 13,
-    "lamp": 65,
+    "lamp": 67,
     "media": 84,
     "seating": 31,
     "sofa": 24,
@@ -4492,7 +4421,7 @@
    },
    "description": "Sofas, seating, tables, lamps and media furniture for the living room, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
    "id": "theovencook.living",
-   "items": 241,
+   "items": 243,
    "kind": "furniture",
    "licence": "MIT",
    "name": "Living",
@@ -5472,8 +5401,8 @@
     }
    ],
    "publisher": "theovencook",
-   "release": 2,
-   "release_note": "99 new items.",
+   "release": 3,
+   "release_note": "Slim uplighters, floor and desk.",
    "source": "official",
    "thumbnail": "arcade_cabinet",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.living"
@@ -6412,13 +6341,13 @@
   },
   {
    "categories": {
-    "outdoor": 81,
-    "sport": 19,
+    "outdoor": 85,
+    "sport": 20,
     "vehicle": 241
    },
    "description": "Garden furniture, outdoor items, sport kit and vehicles, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
    "id": "theovencook.outdoor",
-   "items": 341,
+   "items": 346,
    "kind": "furniture",
    "licence": "MIT",
    "name": "Garden & outdoor",
@@ -6550,125 +6479,308 @@
        "d": 1.0,
        "edges": false,
        "glow": false,
-       "h": 0.4623,
-       "round": 0.3,
+       "h": 0.5123,
+       "plan": [
+        [
+         0.0,
+         0.86
+        ],
+        [
+         0.06,
+         0.97
+        ],
+        [
+         0.3,
+         1.0
+        ],
+        [
+         0.75,
+         1.0
+        ],
+        [
+         0.94,
+         0.95
+        ],
+        [
+         1.0,
+         0.8
+        ]
+       ],
+       "round": 0.25,
        "screen": false,
-       "shape": "rbox",
+       "shape": "shell",
+       "side": [
+        [
+         0.0,
+         0.1362,
+         0.9591
+        ],
+        [
+         0.04,
+         0.0,
+         1.0
+        ],
+        [
+         0.0987,
+         0.0,
+         0.9867
+        ],
+        [
+         0.1,
+         0.0004,
+         0.9864
+        ],
+        [
+         0.198,
+         0.7219,
+         0.9633
+        ],
+        [
+         0.2973,
+         0.0,
+         0.939
+        ],
+        [
+         0.5,
+         0.0,
+         0.9024
+        ],
+        [
+         0.68,
+         0.0,
+         0.8888
+        ],
+        [
+         0.7387,
+         0.0032,
+         0.8675
+        ],
+        [
+         0.838,
+         0.6018,
+         0.8061
+        ],
+        [
+         0.84,
+         0.5998,
+         0.8048
+        ],
+        [
+         0.9373,
+         0.0268,
+         0.745
+        ],
+        [
+         0.965,
+         0.0409,
+         0.6877
+        ],
+        [
+         1.0,
+         0.1362,
+         0.512
+        ]
+       ],
+       "taper": 0.94,
        "w": 0.96,
        "x": 0.0,
        "y": 0.0977,
        "z": 0.0
       },
       {
+       "color": "dark",
+       "d": 0.1747,
+       "edges": false,
+       "glow": false,
+       "h": 0.3629,
+       "screen": false,
+       "shape": "box",
+       "w": 0.7241,
+       "x": 0.0,
+       "y": 0.0977,
+       "z": -0.302
+      },
+      {
+       "color": "dark",
+       "d": 0.1747,
+       "edges": false,
+       "glow": false,
+       "h": 0.3629,
+       "screen": false,
+       "shape": "box",
+       "w": 0.7241,
+       "x": 0.0,
+       "y": 0.0977,
+       "z": 0.338
+      },
+      {
        "color": "glass",
        "d": 0.58,
        "edges": false,
        "glow": false,
-       "h": 0.4086,
+       "h": 0.4295,
+       "plan": [
+        [
+         0.0,
+         0.9
+        ],
+        [
+         0.1379,
+         1.0
+        ],
+        [
+         0.7241,
+         1.0
+        ],
+        [
+         1.0,
+         0.96
+        ]
+       ],
+       "round": 0.3,
        "screen": false,
-       "shape": "loft",
-       "td": 0.32,
-       "tw": 0.7104,
-       "tx": 0.0,
-       "tz": -0.14,
+       "shape": "shell",
+       "side": [
+        [
+         0.0,
+         0.0162,
+         0.0812
+        ],
+        [
+         0.1724,
+         0.0162,
+         1.0
+        ],
+        [
+         0.7241,
+         0.0,
+         1.0
+        ],
+        [
+         1.0,
+         0.0,
+         0.065
+        ]
+       ],
+       "taper": 0.82,
        "w": 0.864,
        "x": 0.0,
-       "y": 0.56,
+       "y": 0.5391,
        "z": -0.11
       },
       {
        "color": "paint",
-       "d": 0.3299,
+       "d": 0.3399,
        "edges": false,
        "glow": false,
-       "h": 0.0314,
+       "h": 0.0593,
+       "plan": [
+        [
+         0.0,
+         0.94
+        ],
+        [
+         0.073,
+         1.0
+        ],
+        [
+         0.927,
+         1.0
+        ],
+        [
+         1.0,
+         0.96
+        ]
+       ],
+       "round": 0.45,
        "screen": false,
-       "shape": "box",
-       "w": 0.7296,
+       "shape": "shell",
+       "side": [
+        [
+         0.0,
+         0.0,
+         0.4706
+        ],
+        [
+         0.073,
+         0.1176,
+         1.0
+        ],
+        [
+         0.927,
+         0.1176,
+         1.0
+        ],
+        [
+         1.0,
+         0.0,
+         0.4706
+        ]
+       ],
+       "taper": 0.95,
+       "w": 0.5473,
        "x": 0.0,
-       "y": 0.9686,
+       "y": 0.9407,
        "z": -0.14
       },
       {
        "color": "paint",
-       "d": 0.0124,
+       "d": 0.0149,
        "edges": false,
        "glow": false,
-       "h": 0.4086,
+       "h": 0.4128,
+       "plan": [
+        [
+         0.0,
+         1.0
+        ],
+        [
+         0.5,
+         1.0
+        ],
+        [
+         1.0,
+         1.0
+        ]
+       ],
+       "round": 0.3,
        "screen": false,
-       "shape": "loft",
-       "td": 0.0124,
-       "tw": 0.0144,
-       "tx": -0.3506,
-       "tz": -0.125,
-       "w": 0.0144,
-       "x": -0.4274,
-       "y": 0.56,
-       "z": -0.125
-      },
-      {
-       "color": "paint",
-       "d": 0.0124,
-       "edges": false,
-       "glow": false,
-       "h": 0.4086,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0124,
-       "tw": 0.0144,
-       "tx": 0.3506,
-       "tz": -0.125,
-       "w": 0.0144,
-       "x": 0.4274,
-       "y": 0.56,
-       "z": -0.125
-      },
-      {
-       "color": "paint",
-       "d": 0.35,
-       "edges": false,
-       "glow": false,
-       "h": 0.0809,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.26,
-       "tw": 0.9024,
-       "tx": 0.0,
-       "tz": 0.31,
-       "w": 0.9024,
+       "shape": "shell",
+       "side": [
+        [
+         0.0,
+         0.0012,
+         1.0
+        ],
+        [
+         0.5,
+         0.0006,
+         1.0
+        ],
+        [
+         1.0,
+         0.0,
+         1.0
+        ]
+       ],
+       "taper": 0.82,
+       "w": 0.8755,
        "x": 0.0,
-       "y": 0.546,
-       "z": 0.325
-      },
-      {
-       "color": "paint",
-       "d": 0.12,
-       "edges": false,
-       "glow": false,
-       "h": 0.05,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.09,
-       "tw": 0.9024,
-       "tx": 0.0,
-       "tz": -0.425,
-       "w": 0.9024,
-       "x": 0.0,
-       "y": 0.546,
-       "z": -0.44
+       "y": 0.5628,
+       "z": -0.125
       },
       {
        "color": "#fff3cf",
-       "d": 0.0099,
+       "d": 0.0124,
        "edges": false,
        "glow": false,
        "h": 0.0558,
        "screen": false,
        "shape": "box",
-       "w": 0.1494,
-       "x": -0.33,
-       "y": 0.4763,
-       "z": 0.495
+       "w": 0.1379,
+       "x": -0.2776,
+       "y": 0.3261,
+       "z": 0.4913
       },
       {
        "color": "#b3141b",
@@ -6678,10 +6790,10 @@
        "h": 0.0558,
        "screen": false,
        "shape": "box",
-       "w": 0.1379,
-       "x": -0.36,
+       "w": 0.1264,
+       "x": -0.3239,
        "y": 0.4553,
-       "z": -0.495
+       "z": -0.4938
       },
       {
        "color": "paint",
@@ -6692,22 +6804,22 @@
        "screen": false,
        "shape": "box",
        "w": 0.046,
-       "x": -0.4828,
-       "y": 0.5809,
+       "x": -0.477,
+       "y": 0.574,
        "z": 0.19
       },
       {
        "color": "#fff3cf",
-       "d": 0.0099,
+       "d": 0.0124,
        "edges": false,
        "glow": false,
        "h": 0.0558,
        "screen": false,
        "shape": "box",
-       "w": 0.1494,
-       "x": 0.33,
-       "y": 0.4763,
-       "z": 0.495
+       "w": 0.1379,
+       "x": 0.2776,
+       "y": 0.3261,
+       "z": 0.4913
       },
       {
        "color": "#b3141b",
@@ -6717,10 +6829,10 @@
        "h": 0.0558,
        "screen": false,
        "shape": "box",
-       "w": 0.1379,
-       "x": 0.36,
+       "w": 0.1264,
+       "x": 0.3239,
        "y": 0.4553,
-       "z": -0.495
+       "z": -0.4938
       },
       {
        "color": "paint",
@@ -6731,8 +6843,8 @@
        "screen": false,
        "shape": "box",
        "w": 0.046,
-       "x": 0.4828,
-       "y": 0.5809,
+       "x": 0.477,
+       "y": 0.574,
        "z": 0.19
       },
       {
@@ -6743,7 +6855,7 @@
        "h": 0.1117,
        "screen": false,
        "shape": "box",
-       "w": 0.9024,
+       "w": 0.768,
        "x": 0.0,
        "y": 0.0977,
        "z": 0.4826
@@ -6756,7 +6868,7 @@
        "h": 0.1117,
        "screen": false,
        "shape": "box",
-       "w": 0.9024,
+       "w": 0.8064,
        "x": 0.0,
        "y": 0.0977,
        "z": -0.4826
@@ -7012,322 +7124,143 @@
     },
     {
      "electric": false,
-     "family": "bike_wall_rack",
      "group": "sport",
      "hole": false,
-     "id": "bike_wall_rack_horizontal",
-     "mount": "wall",
+     "id": "bike_helmet",
+     "mount": "surface",
      "name": {
-      "en": "Bike on a wall rack"
+      "en": "Bike helmet"
      },
      "parts": [
       {
-       "axis": "z",
-       "color": "#25262a",
-       "d": 0.0656,
+       "color": "accent",
+       "d": 1.0,
        "edges": false,
        "glow": false,
-       "h": 0.6476,
+       "h": 0.8824,
+       "profile": [
+        [
+         1.0,
+         0.0
+        ],
+        [
+         0.97,
+         0.35
+        ],
+        [
+         0.82,
+         0.7
+        ],
+        [
+         0.5,
+         0.93
+        ],
+        [
+         0.0,
+         1.0
+        ]
+       ],
+       "screen": false,
+       "shape": "lathe",
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.1176,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7407,
+       "edges": false,
+       "glow": false,
+       "h": 0.0706,
+       "screen": false,
+       "shape": "box",
+       "w": 0.06,
+       "x": -0.2,
+       "y": 0.8824,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7407,
+       "edges": false,
+       "glow": false,
+       "h": 0.0706,
+       "screen": false,
+       "shape": "box",
+       "w": 0.06,
+       "x": 0.0,
+       "y": 0.8824,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.7407,
+       "edges": false,
+       "glow": false,
+       "h": 0.0706,
+       "screen": false,
+       "shape": "box",
+       "w": 0.06,
+       "x": 0.2,
+       "y": 0.8824,
+       "z": 0.0
+      },
+      {
+       "color": "dark",
+       "d": 0.8889,
+       "edges": false,
+       "glow": false,
+       "h": 0.1471,
        "screen": false,
        "shape": "cyl",
-       "w": 0.3908,
-       "x": -0.3017,
+       "w": 0.85,
+       "x": 0.0,
        "y": 0.0,
-       "z": 0.0451
+       "z": 0.0
       },
       {
-       "axis": "z",
-       "color": "#8a8d92",
-       "d": 0.082,
+       "color": "dark",
+       "d": 0.0741,
        "edges": false,
        "glow": false,
-       "h": 0.5714,
-       "screen": false,
-       "shape": "cyl",
-       "w": 0.3448,
-       "x": -0.3017,
-       "y": 0.0381,
-       "z": 0.0451
-      },
-      {
-       "axis": "z",
-       "color": "#25262a",
-       "d": 0.0656,
-       "edges": false,
-       "glow": false,
-       "h": 0.6476,
-       "screen": false,
-       "shape": "cyl",
-       "w": 0.3908,
-       "x": 0.3017,
-       "y": 0.0,
-       "z": 0.0451
-      },
-      {
-       "axis": "z",
-       "color": "#8a8d92",
-       "d": 0.082,
-       "edges": false,
-       "glow": false,
-       "h": 0.5714,
-       "screen": false,
-       "shape": "cyl",
-       "w": 0.3448,
-       "x": 0.3017,
-       "y": 0.0381,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.6,
+       "h": 0.1765,
        "screen": false,
        "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0184,
-       "tx": -0.1121,
-       "tz": 0.0451,
-       "w": 0.0184,
-       "x": -0.0431,
-       "y": 0.2762,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.0571,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0172,
-       "tx": -0.1121,
-       "tz": 0.0451,
-       "w": 0.0172,
-       "x": 0.2328,
-       "y": 0.819,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.5429,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.023,
-       "tx": 0.2328,
-       "tz": 0.0451,
-       "w": 0.023,
-       "x": -0.0431,
-       "y": 0.2762,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.0476,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0126,
-       "tx": -0.3017,
-       "tz": 0.0451,
-       "w": 0.0126,
-       "x": -0.0431,
-       "y": 0.2762,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.5524,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0103,
-       "tx": -0.1121,
-       "tz": 0.0451,
-       "w": 0.0103,
-       "x": -0.3017,
-       "y": 0.3238,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.4952,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0149,
-       "tx": 0.2328,
-       "tz": 0.0451,
-       "w": 0.0149,
-       "x": 0.3017,
-       "y": 0.3238,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.1524,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0149,
-       "tx": 0.181,
-       "tz": 0.0451,
-       "w": 0.0149,
-       "x": 0.2155,
-       "y": 0.8,
-       "z": 0.0451
-      },
-      {
-       "color": "#2f5d8a",
-       "d": 0.0492,
-       "edges": false,
-       "glow": false,
-       "h": 0.0762,
-       "screen": false,
-       "shape": "loft",
-       "td": 0.0492,
-       "tw": 0.0149,
-       "tx": -0.1293,
-       "tz": 0.0451,
-       "w": 0.0149,
-       "x": -0.1121,
-       "y": 0.8762,
-       "z": 0.0451
-      },
-      {
-       "color": "#25262a",
-       "d": 0.1967,
-       "edges": false,
-       "glow": false,
-       "h": 0.0476,
-       "round": 0.4,
-       "screen": false,
-       "shape": "rbox",
-       "w": 0.1494,
-       "x": -0.1351,
-       "y": 0.9524,
-       "z": 0.0451
-      },
-      {
-       "axis": "z",
-       "color": "#25262a",
-       "d": 0.9016,
-       "edges": false,
-       "glow": false,
-       "h": 0.0238,
-       "screen": false,
-       "shape": "cyl",
-       "w": 0.0144,
-       "x": 0.181,
-       "y": 0.9405,
-       "z": 0.0451
-      },
-      {
-       "color": "#2c2f33",
-       "d": 0.0984,
-       "edges": false,
-       "glow": false,
-       "h": 0.1905,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0287,
-       "x": -0.0431,
-       "y": 0.7429,
-       "z": -0.4467
-      },
-      {
-       "color": "#2c2f33",
-       "d": 0.0984,
-       "edges": false,
-       "glow": false,
-       "h": 0.1905,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0287,
-       "x": 0.3017,
-       "y": 0.7429,
-       "z": -0.4467
-      },
-      {
-       "color": "#2c2f33",
-       "d": 0.4918,
-       "edges": false,
-       "glow": false,
-       "h": 0.0286,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0287,
-       "x": -0.0431,
-       "y": 0.8381,
-       "z": -0.2008
-      },
-      {
-       "color": "#2c2f33",
-       "d": 0.4918,
-       "edges": false,
-       "glow": false,
-       "h": 0.0286,
-       "screen": false,
-       "shape": "box",
-       "w": 0.0287,
-       "x": 0.3017,
-       "y": 0.8381,
-       "z": -0.2008
+       "td": 0.0926,
+       "tw": 0.6,
+       "tz": 0.4815,
+       "w": 0.7,
+       "x": 0.0,
+       "y": 0.4118,
+       "z": 0.4444
       }
      ],
      "room": [
-      "garage",
       "hall",
-      "utility",
-      "hobby",
-      "loft"
+      "garage"
      ],
      "size": [
-      1.74,
-      0.61,
-      1.05
+      0.2,
+      0.27,
+      0.17
      ],
      "surface": false,
      "tags": [
-      "bike rack",
-      "bicycle storage",
-      "wall mount",
-      "bike hook",
-      "cycle storage",
+      "bike helmet",
+      "cycle helmet",
+      "helmet",
+      "cycling",
       "bicycle",
-      "hanging bike",
-      "garage",
-      "horizontal"
+      "safety"
      ],
-     "variant": {
-      "en": "Horizontal, bike parallel to the wall"
-     },
      "vehicle": false,
-     "wall_y": 1.3
+     "wall_y": 1.0
     }
    ],
    "publisher": "theovencook",
-   "release": 2,
-   "release_note": "225 new items, 6 items updated.",
+   "release": 6,
+   "release_note": "Apex shed: window centred in its wall. Wheel arches on the curved cars (no longer sunk into the ground); new: rattan garden set with black legs, bike helmet, pizza peel. Release 4: curved car bodies, ",
    "source": "official",
    "thumbnail": "audi_a1",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor"
@@ -7578,11 +7511,11 @@
   {
    "categories": {
     "outdoor": 75,
-    "plant": 399
+    "plant": 401
    },
    "description": "Grass in several lengths, soils and mulches, raised beds and 50 garden plants in sizes and colours, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
    "id": "theovencook.outdoor-plants",
-   "items": 474,
+   "items": 476,
    "kind": "furniture",
    "licence": "MIT",
    "name": "Garden plants & ground",
@@ -8276,7 +8209,8 @@
     }
    ],
    "publisher": "theovencook",
-   "release": 1,
+   "release": 2,
+   "release_note": "Silver birch, young and mature.",
    "source": "official",
    "thumbnail": "agapanthus_blue_large",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.outdoor-plants"
@@ -8284,11 +8218,11 @@
   {
    "categories": {
     "network": 108,
-    "tech": 86
+    "tech": 88
    },
    "description": "Ubiquiti UniFi gear: Protect cameras, doorbells and sensors, Access readers and hubs, Network access points, and the rack-mounted gateways, switches, NVRs, storage and power. Modelled for Home 3D from simple shapes. Ships with the app and works offline.",
    "id": "theovencook.unifi",
-   "items": 194,
+   "items": 196,
    "kind": "furniture",
    "licence": "MIT",
    "name": "UniFi",
@@ -8555,7 +8489,8 @@
     }
    ],
    "publisher": "theovencook",
-   "release": 1,
+   "release": 2,
+   "release_note": "UniFi G5 Instant and G5 Doorbell Pro camera models (approximate sizes)",
    "source": "official",
    "thumbnail": "rack_unifi_eav_fiber",
    "url": "https://github.com/theovencook/home-3d-packs/tree/main/theovencook.unifi"

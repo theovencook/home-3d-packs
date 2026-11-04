@@ -5,7 +5,7 @@
   "name": "Household & building",
   "publisher": "theovencook",
   "licence": "MIT",
-  "release": 2,
+  "release": 3,
   "description": "Household items, architecture (stairs, fireplaces and other building features) and pet gear, modelled for Home 3D from simple shapes. Ships with the app and works offline.",
-  "release_note": "8 new items."
+  "release_note": "Crinkle cat tunnel and a boot tray."
 }

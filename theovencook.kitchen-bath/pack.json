@@ -5,7 +5,7 @@
   "name": "Kitchen & bath",
   "publisher": "theovencook",
   "licence": "MIT",
-  "release": 2,
+  "release": 3,
   "description": "Kitchen units, appliances and bathroom fittings, modelled for Home 3D from simple shapes. Appliances can be linked to a switch and a power sensor. Ships with the app and works offline.",
-  "release_note": "New: worktop gear (air fryers, multi-cookers, blenders, boards, knife blocks, bread bins, spice racks) and L-shaped corner sink units."
+  "release_note": "Pedal bins (5 L bathroom, 30 L kitchen), toilet roll holders (freestanding, wall) and a shower curtain on a straight rail."
 }

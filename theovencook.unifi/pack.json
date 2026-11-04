@@ -5,6 +5,7 @@
   "name": "UniFi",
   "publisher": "theovencook",
   "licence": "MIT",
-  "release": 1,
-  "description": "Ubiquiti UniFi gear: Protect cameras, doorbells and sensors, Access readers and hubs, Network access points, and the rack-mounted gateways, switches, NVRs, storage and power. Modelled for Home 3D from simple shapes. Ships with the app and works offline."
+  "release": 2,
+  "description": "Ubiquiti UniFi gear: Protect cameras, doorbells and sensors, Access readers and hubs, Network access points, and the rack-mounted gateways, switches, NVRs, storage and power. Modelled for Home 3D from simple shapes. Ships with the app and works offline.",
+  "release_note": "UniFi G5 Instant and G5 Doorbell Pro camera models (approximate sizes)"
 }
